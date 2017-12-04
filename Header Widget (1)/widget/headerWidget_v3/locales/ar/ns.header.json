@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "الدفع",
+    "cartDropDownText": "__count__ الصنف - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ الأصناف - __currency____totalPrice__",
+    "cartHeading": "عربة التسوق الخاصة بك",
+    "cartTableSumary": "يحتوي هذا الجدول على قائمة بالأصناف الموجودة حاليًا بعربة التسوق الخاصة بك.",
+    "cartColHeaderImage": "الصورة",
+    "cartColHeaderName": "الاسم",
+    "cartColHeaderQuantity": "الكمية",
+    "cartColHeaderItemTotal": "إجمالي الأصناف",
+    "totalTableSummary": "إجماليات عربة التسوق.",
+    "totalTableSubTotal": "الإجمالي الفرعي:",
+    "totalTableTotal": "الإجمالي:",
+    "buttonEditCart": "تحرير العربة",
+    "buttonRemoveItem": "إزالة",
+    "siteNavigationHeader" : "التنقل في الموقع",
+    "shoppingCartHeader" : "إجمالي عربة التسوق",
+    "skipToContent": "تخطي للمحتوى",
+    "miniShoppingCartTitle": "عربة التسوق الصغيرة",
+    "miniShoppingCartScrollUp": "انقر لعرض مجموعة المنتجات السابقة",
+    "miniShoppingCartScrollDown": "انقر لعرض مجموعة المنتجات التالية",
+    "updateProfileLocaleModalText": "هل تريد حفظ تحديد اللغة الخاص بك إلى ملف التعريف لديك؟",
+    "minicartText": "العربة الصغيرة",
+    "cartOperationsText": "عمليات العربة"
+  }
+}

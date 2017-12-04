@@ -1,0 +1,34 @@
+<!--
+ /**
+  *
+  * Header Widget Template
+  *
+  */
+-->
+<div class="templateRegion" id="CC-PFTheaderWidget" data-oc-id="CC-PFTheaderWidget">
+  <div class="header-line">
+    <h1 class="label-hidden" data-bind="text: $data.site().siteInfo.name"></h1>
+    <div class="skip-content" data-bind="click: skipToContentHandler">
+      <button id="cc-btn-skipToContent-desktop" data-bind="widgetLocaleText: 'skipToContent'"></button>
+    </div>
+    <!-- ko if: initialized -->
+    <h2 class="label-hidden" data-bind="widgetLocaleText : 'siteNavigationHeader'"></h2>
+    <!-- /ko -->
+
+    <div id="header">
+      <div class="shell">
+        <div class="header__inner">
+          <!-- oc layout: panels -->
+          <div class="flex-center row">
+            <div class="oc-panel col-md-12" data-oc-id="panel-0-1">
+              <!-- oc section: pft-header-logo -->
+              <div data-bind="element: 'pft-header-logo'"></div>
+              <!-- /oc -->
+            </div>
+          </div>
+          <!-- /oc -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

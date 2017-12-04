@@ -1,0 +1,13 @@
+{
+  "name": "ConfigAndersonDemo",
+  "javascript": "config-anderson-demo",
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "global": false,
+  "config": {
+    "enabled": true,
+    "coupon": "SHIP100",
+    "minSpend": "100",
+    "bannerSize": "s"
+  }
+}

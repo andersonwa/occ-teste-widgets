@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "精算",
+    "cartDropDownText": "__count__ 個の品目 - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ 個の品目 - __currency____totalPrice__",
+    "cartHeading": "ショッピング・カート",
+    "cartTableSumary": "この表には、現在ショッピング・カートに入っている品目のリストが含まれます。",
+    "cartColHeaderImage": "イメージ",
+    "cartColHeaderName": "名前",
+    "cartColHeaderQuantity": "数量",
+    "cartColHeaderItemTotal": "品目合計",
+    "totalTableSummary": "ショッピング・カートの合計です。",
+    "totalTableSubTotal": "小計:",
+    "totalTableTotal": "合計:",
+    "buttonEditCart": "カートの編集",
+    "buttonRemoveItem": "削除",
+    "siteNavigationHeader" : "サイト・ナビゲーション",
+    "shoppingCartHeader" : "ショッピング・カート要約",
+    "skipToContent": "コンテンツにスキップ",
+    "miniShoppingCartTitle": "小型ショッピング・カート",
+    "miniShoppingCartScrollUp": "クリックして製品の前のセットを表示",
+    "miniShoppingCartScrollDown": "クリックして製品の次のセットを表示",
+    "updateProfileLocaleModalText": "言語の選択をプロファイルに保存しますか?",
+    "minicartText": "小型カート",
+    "cartOperationsText": "カート操作"
+  }
+}

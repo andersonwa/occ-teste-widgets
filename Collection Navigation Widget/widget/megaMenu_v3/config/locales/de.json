@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Geben Sie eine durch Komma getrennte Liste der Felder ein, die in die Antwort eingeschlossen werden sollen.",
+    "megaMenuFieldsRequiredLabel": "Felder"
+  }
+}

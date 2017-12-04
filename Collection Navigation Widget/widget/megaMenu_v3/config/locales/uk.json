@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Введіть через кому список полів, які мають бути включені у відповідь.",
+    "megaMenuFieldsRequiredLabel": "Поля"
+  }
+}

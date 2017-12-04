@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Įveskite skaičių prekių, kiek bus rodoma mažajame pirkinių krepšelyje, kol dar nereikia slinkti.",
+    "miniCartNumberOfItemsLabel": "Prekių skaičius mažajame pirkinių krepšelyje, kol nereikia slinkti",
+    "miniCartDisplayMiniCartHelpText": "Nustatykite, ar mažasis pirkinių krepšelis bus rodomas prie pranešimo „Įtraukti į pirkinių krepšelį“.",
+    "miniCartDisplayMiniCartTextLabel": "Rodyti mažąjį pirkinių krepšelį",
+    "miniCartMiniCartDurationHelpText": "Nustatykite trukmę, kiek bus rodomas mažasis pirkinių krepšelis (sekundėmis).",
+    "miniCartMiniCartDurationTextLabel": "Trukmė (sekundėmis)"
+  }
+}

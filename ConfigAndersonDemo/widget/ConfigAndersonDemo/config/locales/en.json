@@ -1,0 +1,15 @@
+{
+  "resources" : {
+    "enabledHelpText": "Enable the cart message.",
+    "enabledLabel": "Enable",
+    "couponHelpText": "Define the coupon name.",
+    "couponLabel": "Coupon",
+    "minSpendHelpText": "Define the minimum spend for the coupon.",
+    "minSpendLabel": "Minimum Spend",
+    "sizeHelpText": "The size of the banner.",
+    "sizeLabel": "Banner Size",
+    "sizeSmallLabel": "Small",
+    "sizeMediumLabel": "Medium",
+    "sizeLargeLabel": "Large"
+  }
+}

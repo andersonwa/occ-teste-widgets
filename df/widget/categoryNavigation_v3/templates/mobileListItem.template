@@ -1,0 +1,14 @@
+<!-- comment categoryNavListItem -->
+<span data-bind="css: $data.levelClass">
+  <a class="darkSpan"
+    data-bind="attr: {id: $data.uiIdentifier + '_mobile'},ccLink: $data"></a>
+</span>
+<!-- ko if: $data.childCategories -->
+  <ul class="dropdown-menu dropdown-catmenu  dropdown-catsubmenu" data-bind="attr: {id: $data.uiIdentifier +'_mobile_submenu', 'data-parent': $data.id + '_link' }, foreach: $data.childCategories">
+    <li data-bind="template: {name: $parents[2].assetMappings['/templates/mobileListItem.template'], templateUrl: ''}" ></li>
+  </ul>
+<!-- /ko -->
+
+
+
+

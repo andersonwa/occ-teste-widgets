@@ -1,0 +1,87 @@
+<!--Start of Category Nav Widget-->
+<h3 class="label-hidden" data-bind="widgetLocaleText: 'categoryHeader'">Category Navigation</h3>
+
+<div id="cc-category-navigation" >
+  <!-- Desktop Navigation -->
+  <div class="navbar navbar-default visible-lg visible-md">
+    <div class="navbar-collapse collapse">
+      <ul role="menu" class="nav navbar-nav" data-bind="foreach: categories">
+        <!-- ko if: $data.childCategories -->
+          <li role="menu" class="dropdown" data-bind="attr: {id : $data.uiIdentifier + '_menu' }, event:{ keydown: $data.keybindFunc }">
+            <a data-bind="css: $data.levelClass , attr: {id: $data.uiIdentifier}, ccLink: $data, event:{mouseover: $data.mouseEnterFunc}">  
+              <span data-bind="text: displayName"></span>          
+            </a>
+            <ul class="dropdown-menu dropdown-catmenu" data-bind="attr : {id: $data.uiIdentifier +'_submenu' }, foreach: childCategories">
+              <li data-bind="attr: {id: $data.uiIdentifier +'_subsubmenu' }, template: {name: $parents[1].templateAbsoluteUrl('/templates/categoryNavListItem.template'), templateUrl: '', event: { keydown: $data.keybindFunc }}"></li>
+            </ul>
+          </li>
+        <!-- /ko -->
+        <!-- ko ifnot: $data.childCategories -->
+          <li role="menuitem" class="rootCategoryChild">
+            <a data-bind="css: $data.levelClass, ccLink: $data, attr: {id: $data.uiIdentifier }, event: { keydown: $data.keybindFunc, mouseover: $data.mouseEnterFunc}"></a>
+          </li>
+        <!-- /ko -->
+      </ul>
+    </div>
+  </div>
+  
+  <!-- Mobile/Tablet Navigation -->
+  <div id="cc-mobile-navbar" class="hidden-md hidden-lg">
+    <div>
+      <div class="row cc-mobile-header-container">
+        <div id="cc-mobile-navbar-header" class="col-xs-12 col-sm-3">
+          <div class="col-xs-7 mobile-nav-margin">
+            <span data-bind="widgetLocaleText: 'categoryText'">Categories</span>
+          </div>
+          <div class="btn-group menu-icon-button col-xs-2 pull-right">
+            <button class="btn pull-right btn-default collapsed mobile-nav-margin" id="menu-icon-button" data-toggle="collapse" data-target="#mobile-tablet-menu" title="List">
+            <span class="label-hidden" data-bind="widgetLocaleText: 'mobileNavBtnText'">Navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+       </div>
+      </div>
+    
+      <div class="collapse" id="mobile-tablet-menu">
+        <ul class="nav navbar-nav mobile-nav" data-bind="foreach: categories">
+          <!-- ko if: $data.childCategories -->
+            <li role="menu" data-bind="attr: {id : $data.uiIdentifier + '_mobile_menu' }">
+              <span data-bind=" css: $data.levelClass">
+                <a data-bind="ccLink: $data, attr: { id: $data.uiIdentifier + '_mobile'}">  
+                  <span data-bind="text: displayName"></span>
+                </a>
+              </span>
+              <ul class="mobile-nav" data-bind="attr: {id: $data.uiIdentifier +'_mobile_submenu' }, foreach: childCategories">
+                <li data-bind="css: {'dropdown-catsubmenu' : $data.hasChildCategories}">
+                  <!-- ko if: $data.childCategories --> 
+                    <span data-bind="css: $data.levelClass">
+                      <a data-bind="attr: { id: $data.uiIdentifier + '_mobile'}, ccLink: $data"></a>      
+                    </span>
+                    <ul class="mobile-nav" data-bind="attr: {id: $data.uiIdentifier +'mobile_submenu', 'data-parent': $data.id + '_link' }, foreach: $data.childCategories">
+                      <li data-bind="template: {name: $parents[2].assetMappings['/templates/mobileListItem.template'], templateUrl: ''}" ></li>  
+                    </ul>
+                 <!-- /ko -->
+                 <!-- ko ifnot: $data.childCategories -->
+                   <span data-bind="css: $data.levelClass">
+                     <a data-bind="attr: { id: $data.uiIdentifier + '_mobile'}, ccLink : $data"></a>
+                   </span>
+                 <!-- /ko -->
+                </li>               
+              </ul>
+            </li>
+          <!-- /ko -->
+         <!-- ko ifnot: $data.childCategories -->
+            <li role="menuitem" class="rootCategoryChild">
+              <span data-bind="css: $data.levelClass">
+                <a data-bind="ccLink: $data, attr: { id: $data.uiIdentifier + '_mobile'}"></a>
+              </span>
+            </li>
+          <!-- /ko -->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!--End of Category Nav Widget-->

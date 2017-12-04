@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Introduzca el número máximo de elementos que desea mostrar en el mini carro antes de que sea necesario el desplazamiento.",
+    "miniCartNumberOfItemsLabel": "Número de elementos en el mini carro antes de desplazamiento",
+    "miniCartDisplayMiniCartHelpText": "Defina si el mini carro debe mostrarse para la notificación 'agregar a carro'.",
+    "miniCartDisplayMiniCartTextLabel": "Mostrar mini carro",
+    "miniCartMiniCartDurationHelpText": "Defina la duración de la visualización del mini carro (en segundos).",
+    "miniCartMiniCartDurationTextLabel": "Duración (en segundos)"
+  }
+}

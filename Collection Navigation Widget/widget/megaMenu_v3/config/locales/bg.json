@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Въведете списък с полета, разделени със запетая, който да се включи в отговора.",
+    "megaMenuFieldsRequiredLabel": "Полета"
+  }
+}

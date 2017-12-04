@@ -1,0 +1,16 @@
+{
+  "widgetDescriptorName": "categoryNavigation",
+  "properties": [
+    {
+      "id": "fields",
+      "type": "stringType",
+      "name": "fields",
+      "helpTextResourceId": "categoryNavigationFieldsRequiredHelpText",
+      "labelResourceId": "categoryNavigationFieldsRequiredLabel",
+      "defaultValue": "",
+      "required": false,
+      "pattern": "^[a-zA-Z0-9-_,.()]+$",
+      "maxLength":5000
+    }
+  ]
+}

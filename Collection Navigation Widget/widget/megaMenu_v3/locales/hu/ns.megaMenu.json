@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Menü",
+	"categoryHeader": "Kategóriák navigációs menüje",
+	"mobileNavBtnText": "Navigáció",
+	"categoryNavScreenReaderText": "A(z) __displayName__ kategóriához __categoryLength__ alkategória tartozik.",
+	"noSubCategoriesText" : "A(z) __displayName__ kategóriához nem tartozik alkategória."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Enter list of comma separated fields to include in the response.",
+    "categoryNavigationFieldsRequiredLabel": "Fields"
+  }
+}

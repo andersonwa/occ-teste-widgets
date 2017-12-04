@@ -1,0 +1,15 @@
+{
+  "availableToAllPages": true,
+  "config": {"sourceMedia": "defaultContent"},
+  "global": false,
+  "globalEnabled": false,
+  "imports": [],
+  "javascript": "web-content",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Contact Us Web Content Widget",
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "webContent",
+  "widgetType": "webContent"
+}

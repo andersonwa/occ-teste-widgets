@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "結帳",
+    "cartDropDownText": "__count__ 個項目 - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ 個項目 - __currency____totalPrice__",
+    "cartHeading": "您的購物車",
+    "cartTableSumary": "此表格包含了目前在您購物車中的項目清單。",
+    "cartColHeaderImage": "影像",
+    "cartColHeaderName": "名稱",
+    "cartColHeaderQuantity": "數量",
+    "cartColHeaderItemTotal": "項目總計",
+    "totalTableSummary": "購物車總計。",
+    "totalTableSubTotal": "小計：",
+    "totalTableTotal": "總計：",
+    "buttonEditCart": "編輯購物車",
+    "buttonRemoveItem": "移除",
+    "siteNavigationHeader" : "站台瀏覽",
+    "shoppingCartHeader" : "購物車摘要",
+    "skipToContent": "跳至內容",
+    "miniShoppingCartTitle": "迷你購物車",
+    "miniShoppingCartScrollUp": "按一下來檢視上一組產品",
+    "miniShoppingCartScrollDown": "按一下來檢視下一組產品",
+    "updateProfileLocaleModalText": "將您選取的語言儲存至設定檔？",
+    "minicartText": "迷你購物車",
+    "cartOperationsText": "購物車作業"
+  }
+}

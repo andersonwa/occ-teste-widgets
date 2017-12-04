@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Meny",
+	"categoryHeader": "Navigering-menyn för kategori",
+	"mobileNavBtnText": "Navigering",
+	"categoryNavScreenReaderText": "__displayName__ har __categoryLength__ underkategorier",
+	"noSubCategoriesText" : "__displayName__ har inga underkategorier"
+  }
+}

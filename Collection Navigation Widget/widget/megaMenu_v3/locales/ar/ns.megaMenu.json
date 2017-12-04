@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "القائمة",
+	"categoryHeader": "قائمة التنقل بالفئة",
+	"mobileNavBtnText": "التنقل",
+	"categoryNavScreenReaderText": "تحتوي __displayName__ على __categoryLength__ للفئات الفرعية",
+	"noSubCategoriesText" : "لا تحتوي __displayName__ على فئات فرعية"
+  }
+}

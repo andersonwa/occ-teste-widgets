@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Введите список полей, разделенных запятыми, для включения в ответ.",
+    "megaMenuFieldsRequiredLabel": "Поля"
+  }
+}

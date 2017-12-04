@@ -1,0 +1,72 @@
+{
+  "titleResourceId": "title",
+  "descriptionResourceId": "description",
+  "properties": [
+    {
+      "id": "booleanItem",
+      "type": "booleanType",
+      "name": "booleanValue",
+      "helpTextResourceId": "booleanHelpText",
+      "labelResourceId": "booleanLabel",
+      "defaultValue": true
+    },
+    {
+      "id": "stringItem",
+      "type": "stringType",
+      "name": "stringValue",
+      "helpTextResourceId": "stringHelpText",
+      "labelResourceId": "stringLabel",
+      "defaultValue": "TEST123",
+      "minLength": 5,
+      "maxLength": 10,
+      "required": true
+    },
+    {
+      "id": "optionItem",
+      "type": "optionType",
+      "name": "optionValue",
+      "required": true,
+      "helpTextResourceId": "optionHelpText",
+      "labelResourceId": "optionLabel",
+      "options": [
+         {
+           "id": "sizeSmall",
+           "value": "s",
+           "labelResourceId": "sizeSmallLabel"
+         },
+         {
+           "id": "sizeMedium",
+           "value": "m",
+           "labelResourceId": "sizeMediumLabel"
+         },
+         {
+           "id": "sizeLarge",
+           "value": "l",
+           "labelResourceId": "sizeLargeLabel"
+         }
+       ]
+    },
+	{
+      "id": "collectionItem",
+      "type": "collectionType",
+      "name": "collectionPickerValue",
+      "helpTextResourceId": "collectionPickerValueHelpText",
+      "labelResourceId": "collectionPickerValueLabel",
+      "maxLength": 5
+    },
+    {
+      "id": "collectionItem2",
+      "type": "collectionType",
+      "name": "collectionPickerValue2",
+      "helpTextResourceId": "collectionPickerValueHelpText2",
+      "labelResourceId": "collectionPickerValueLabel2",
+    },    
+    {
+      "id": "mediaItem",
+      "type": "mediaType",
+      "name": "mediaPickerValue",
+      "helpTextResourceId": "mediaValueHelpText",
+      "labelResourceId": "mediaPickerValueLabel",
+    }    
+  ]
+}

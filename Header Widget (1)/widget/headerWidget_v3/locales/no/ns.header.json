@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Til kassen",
+    "cartDropDownText": "__count__ artikkel - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ artikler - __currency____totalPrice__",
+    "cartHeading": "Din handlekurv",
+    "cartTableSumary": "Denne tabellen inneholder en liste over artiklene som finnes i handlekurven.",
+    "cartColHeaderImage": "Bilde",
+    "cartColHeaderName": "Navn",
+    "cartColHeaderQuantity": "Mengde",
+    "cartColHeaderItemTotal": "Artikkelsum",
+    "totalTableSummary": "Summer for handlekurven.",
+    "totalTableSubTotal": "Delsum:",
+    "totalTableTotal": "Sum:",
+    "buttonEditCart": "Rediger handlekurv",
+    "buttonRemoveItem": "Fjern",
+    "siteNavigationHeader" : "Områdenavigering",
+    "shoppingCartHeader" : "Sammendrag av handlekurv",
+    "skipToContent": "Gå til innhold",
+    "miniShoppingCartTitle": "Minihandlekurv",
+    "miniShoppingCartScrollUp": "Klikk for å vise det forrige settet med produkter",
+    "miniShoppingCartScrollDown": "Klikk for å vise det neste settet med produkter",
+    "updateProfileLocaleModalText": "Vil du lagre språkvalget i profilen din?",
+    "minicartText": "Minihandlekurv",
+    "cartOperationsText": "Handlekurvoperasjoner"
+  }
+}

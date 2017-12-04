@@ -1,0 +1,181 @@
+{
+    "availableToAllWidgets": false,
+    "configOptions": [],
+    "global": false,
+    "inline": false,
+    "supportedWidgetType": ["PFTheaderWidget"],
+    "tag": "pft-header-language-picker",
+    "translations": [{
+            "description": "",
+            "language": "th",
+            "title": "ภาษา"
+        },
+        {
+            "description": "",
+            "language": "pt_BR",
+            "title": "Idioma"
+        },
+        {
+            "description": "",
+            "language": "zh_CN",
+            "title": "语言"
+        },
+        {
+            "description": "",
+            "language": "uk",
+            "title": "Мова"
+        },
+        {
+            "description": "",
+            "language": "bg",
+            "title": "Език"
+        },
+        {
+            "description": "",
+            "language": "et",
+            "title": "Keel"
+        },
+        {
+            "description": "",
+            "language": "lv",
+            "title": "Valoda"
+        },
+        {
+            "description": "",
+            "language": "no",
+            "title": "Språk"
+        },
+        {
+            "description": "",
+            "language": "lt",
+            "title": "Kalba"
+        },
+        {
+            "description": "",
+            "language": "fr_CA",
+            "title": "Langue"
+        },
+        {
+            "description": "",
+            "language": "ro",
+            "title": "Limbă"
+        },
+        {
+            "description": "",
+            "language": "ja",
+            "title": "言語"
+        },
+        {
+            "description": "",
+            "language": "sl",
+            "title": "Jezik"
+        },
+        {
+            "description": "",
+            "language": "ru",
+            "title": "Язык"
+        },
+        {
+            "description": "",
+            "language": "hr",
+            "title": "Jezik"
+        },
+        {
+            "description": "",
+            "language": "tr",
+            "title": "Dil"
+        },
+        {
+            "description": "",
+            "language": "pl",
+            "title": "Język"
+        },
+        {
+            "description": "",
+            "language": "zh_TW",
+            "title": "語言"
+        },
+        {
+            "description": "",
+            "language": "ko",
+            "title": "언어"
+        },
+        {
+            "description": "",
+            "language": "cs",
+            "title": "Jazyk"
+        },
+        {
+            "description": "",
+            "language": "hu",
+            "title": "Nyelv"
+        },
+        {
+            "description": "",
+            "language": "el",
+            "title": "Γλώσσα"
+        },
+        {
+            "description": "",
+            "language": "da",
+            "title": "Sprog"
+        },
+        {
+            "description": "Element for holding language picker options",
+            "language": "en",
+            "title": "Language"
+        },
+        {
+            "description": "",
+            "language": "sr",
+            "title": "Језик"
+        },
+        {
+            "description": "",
+            "language": "de",
+            "title": "Sprache"
+        },
+        {
+            "description": "",
+            "language": "sr_Latn",
+            "title": "Jezik"
+        },
+        {
+            "description": "",
+            "language": "es",
+            "title": "Idioma"
+        },
+        {
+            "description": "",
+            "language": "fr",
+            "title": "Langue"
+        },
+        {
+            "description": "",
+            "language": "it",
+            "title": "Lingua"
+        },
+        {
+            "description": "",
+            "language": "nl",
+            "title": "Taal"
+        },
+        {
+            "description": "",
+            "language": "sv",
+            "title": "Språk"
+        },
+        {
+            "description": "",
+            "language": "pt",
+            "title": "Língua"
+        },
+        {
+            "description": "",
+            "language": "fi",
+            "title": "Kieli"
+        }
+    ],
+    "type": "fragment",
+    "version": 6
+}

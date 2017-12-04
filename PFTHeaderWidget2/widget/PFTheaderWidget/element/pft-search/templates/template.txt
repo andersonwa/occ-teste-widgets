@@ -1,0 +1,17 @@
+<!-- ko if: initialized() && $data.elements.hasOwnProperty('pft-search') -->
+<div class="bg-search"></div>
+<div class="pft-search">
+  <form role="form" data-bind="submit: function(data, event) { $data['elements']['pft-search'].handleSearch.bind($data['elements']['pft-search'], $data['elements']['pft-search'], event)() }, event: { keydown : $data['elements']['pft-search'].handleKeyPress }">
+      <!-- ko with: $data['elements']['pft-search'] -->
+      <div class="col-xs-12 pull-right input-group">
+          <input id="CC-headerWidget-Search" type="text" class="search__field" autocomplete="off" data-bind="widgetLocaleText: {attr: 'placeholder', value: 'Buscar cursos'}, value: searchText, valueUpdate: 'afterkeydown', onRender:initializeSearch.bind($parent), event: { focus: searchSelected}"
+          />
+
+          <button type="submit" id="searchSubmit" class="search__btn" data-bind="event: { keydown : hideSearchDropdown}">
+            <i class="fa fa-search"></i>
+          </button>
+      </div>
+      <!-- /ko -->
+  </form>
+</div>
+<!-- /ko -->

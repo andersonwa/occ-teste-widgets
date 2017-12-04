@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Unesite broj stavki koji želite da se prikazuje u mini korpi, pre nego što pomeranje stranice postane potrebno.",
+    "miniCartNumberOfItemsLabel": "Broj stavki u mini korpi pre pomeranja",
+    "miniCartDisplayMiniCartHelpText": "Podesite da li mini korpa treba da se prikazuje za obaveštenja o dodavanju u korpu.",
+    "miniCartDisplayMiniCartTextLabel": "Prikaži mini korpu",
+    "miniCartMiniCartDurationHelpText": "Podesite trajanje prikaza mini korpe (u sekundama).",
+    "miniCartMiniCartDurationTextLabel": "Trajanje (u sekundama)"
+  }
+}

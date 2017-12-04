@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Inserire un elenco di campi separati da virgola da includere nella risposta.",
+    "categoryNavigationFieldsRequiredLabel": "Campi"
+  }
+}

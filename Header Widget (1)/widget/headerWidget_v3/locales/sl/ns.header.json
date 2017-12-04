@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Zaključek",
+    "cartDropDownText": "__count__ artikel - __currency____totalPrice__",
+    "cartDropDownText_plural": "Artikli: __count__ - __currency____totalPrice__",
+    "cartHeading": "Vaš nakupovalni voziček",
+    "cartTableSumary": "Ta tabela vsebuje seznam artiklov, ki so trenutno v vašem nakupovalnem vozičku.",
+    "cartColHeaderImage": "Slika",
+    "cartColHeaderName": "Ime",
+    "cartColHeaderQuantity": "Količina",
+    "cartColHeaderItemTotal": "Artikel skupaj",
+    "totalTableSummary": "Skupni zneski v nakupovalnem vozičku.",
+    "totalTableSubTotal": "Delna vsota:",
+    "totalTableTotal": "Skupaj:",
+    "buttonEditCart": "Urejanje vozička",
+    "buttonRemoveItem": "Odstranjevanje",
+    "siteNavigationHeader" : "Krmarjenje po mestu",
+    "shoppingCartHeader" : "Povzetek nakupovalnega vozička",
+    "skipToContent": "Preskok na vsebino",
+    "miniShoppingCartTitle": "Mini nakupovalni voziček",
+    "miniShoppingCartScrollUp": "Kliknite za ogled prejšnjega nabora izdelkov",
+    "miniShoppingCartScrollDown": "Kliknite za ogled naslednjega nabora izdelkov",
+    "updateProfileLocaleModalText": "Ali želite shraniti izbiro jezika v svoj profil?",
+    "minicartText": "Mini voziček",
+    "cartOperationsText": "Operacije vozička"
+  }
+}

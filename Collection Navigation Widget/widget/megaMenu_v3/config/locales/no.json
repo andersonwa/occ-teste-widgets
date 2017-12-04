@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Angi en liste over kommadelte felt som skal inkluderes i svaret.",
+    "megaMenuFieldsRequiredLabel": "Felt"
+  }
+}

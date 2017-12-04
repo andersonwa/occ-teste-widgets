@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Een lijst invoeren met door komma's gescheiden velden die in de reactie moeten worden opgenomen",
+    "categoryNavigationFieldsRequiredLabel": "Velden"
+  }
+}

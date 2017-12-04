@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Indtast en liste over kommaseparerede felter, der skal medtages i responsen.",
+    "megaMenuFieldsRequiredLabel": "Felter"
+  }
+}

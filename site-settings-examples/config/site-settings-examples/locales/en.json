@@ -1,0 +1,21 @@
+{
+  "resources" : {
+    "booleanHelpText": "Select a boolean value.",
+    "booleanLabel": "Boolean",
+    "stringHelpText": "Define a string value.",
+    "stringLabel": "String",
+    "optionHelpText": "Select the option size.",
+    "optionLabel": "Option Picker",
+    "sizeSmallLabel": "Small",
+    "sizeMediumLabel": "Medium",
+    "sizeLargeLabel": "Large",
+    "collectionPickerValueHelpText" : "Collection Picker Help Text",
+    "collectionPickerValueLabel":"Collection Picker Value (Limit: 5)",
+    "collectionPickerValueHelpText2" : "Collection Picker 2 Help Text",
+    "collectionPickerValueLabel2":"Collection Picker 2 Value (No Limit)",
+    "mediaPickerValueHelpText" : "Media Picker Help Text",
+    "mediaPickerValueLabel":"Media Picker Value",
+    "title": "Site Settings Examples",
+    "description":"Site Settings Examples Description"
+  }
+}

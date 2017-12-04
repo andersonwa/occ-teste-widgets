@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Norēķināšanās",
+    "cartDropDownText": "__count__ prece - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ preces - __currency____totalPrice__",
+    "cartHeading": "Jūsu iepirkumu grozs",
+    "cartTableSumary": "Šajā tabulā ir preču saraksts, kas šobrīd ir jūsu iepirkumu grozā.",
+    "cartColHeaderImage": "Attēls",
+    "cartColHeaderName": "Nosaukums",
+    "cartColHeaderQuantity": "Daudzums",
+    "cartColHeaderItemTotal": "Preces kopā",
+    "totalTableSummary": "Iepirkumu groza kopējie rādītāji.",
+    "totalTableSubTotal": "Starpsumma:",
+    "totalTableTotal": "Kopā:",
+    "buttonEditCart": "Rediģēt grozu",
+    "buttonRemoveItem": "Noņemt",
+    "siteNavigationHeader" : "Vietnes navigācija",
+    "shoppingCartHeader" : "Iepirkumu groza kopsavilkums",
+    "skipToContent": "Izlaist un doties uz saturu",
+    "miniShoppingCartTitle": "Mini iepirkumu grozs",
+    "miniShoppingCartScrollUp": "Noklikšķiniet, lai skatītu iepriekšējo produktu kopu",
+    "miniShoppingCartScrollDown": "Noklikšķiniet, lai skatītu nākamo produktu kopu",
+    "updateProfileLocaleModalText": "Vai saglabāt jūsu valodas atlasi jūsu profilā?",
+    "minicartText": "Mini grozs",
+    "cartOperationsText": "Groza operācijas"
+  }
+}

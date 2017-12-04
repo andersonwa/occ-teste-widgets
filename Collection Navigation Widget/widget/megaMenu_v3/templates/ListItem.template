@@ -1,0 +1,16 @@
+<!-- comment categoryNavListItem -->
+<!-- ko if: $data.childCategories -->
+ 
+  <a tabindex="0" data-bind="css: $data.levelClass , attr: { id: $data.uiIdentifier },ccLink : $data,click : $widgetViewModel.catMenuClick"></a>
+      
+  <ul data-bind="attr : {id: $data.uiIdentifier +'_submenu', 'data-parent': $data.id + '_link' }, foreach: $data.childCategories">
+
+    <li data-bind="css: {'closed' : $data.hasChildCategories},
+    										  template: {name: $widgetViewModel.templateAbsoluteUrl('/templates/ListItem.template'), templateUrl: ''}" >
+    </li>
+  
+  </ul>
+<!-- /ko -->
+<!-- ko ifnot: $data.childCategories -->
+  <a data-bind="css: $data.levelClass , attr: { id: $data.uiIdentifier },ccLink : $data, event: { keydown : $data.keybindFunc , click : $data.otherItemClick}, click : $widgetViewModel.catMenuClick"></a>
+<!-- /ko -->

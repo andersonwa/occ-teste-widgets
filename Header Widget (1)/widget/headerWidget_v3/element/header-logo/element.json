@@ -1,0 +1,187 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["headerWidget"],
+  "tag": "header-logo",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "โลโก้"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Logotipo"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "徽标"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Емблема"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Емблема"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Logotips"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Logotip."
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Siglă"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Logotip"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ロゴ"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Логотип"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Logotip"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "標誌"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "로고"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Embléma"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Λογότυπο"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Логотип"
+    },
+    {
+      "description": "Element for holding header logo",
+      "language": "en",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "sr_Latn",
+      "title": "Logotip"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Logotipo"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "en_GB",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Logo"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Logotyp"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Logótipo"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Logo"
+    }
+  ],
+  "type": "fragment",
+  "version": 7
+}

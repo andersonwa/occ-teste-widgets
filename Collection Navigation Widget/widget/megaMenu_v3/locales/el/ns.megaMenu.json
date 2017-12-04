@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Μενού",
+	"categoryHeader": "Μενού πλοήγησης στις κατηγορίες",
+	"mobileNavBtnText": "Πλοήγηση",
+	"categoryNavScreenReaderText": "Το __displayName__ έχει __categoryLength__ δευτερεύουσες κατηγορίες",
+	"noSubCategoriesText" : "Το __displayName__ δεν έχει δευτερεύουσες κατηγορίες"
+  }
+}

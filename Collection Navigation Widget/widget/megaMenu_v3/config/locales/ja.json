@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "フィールドのリストを応答に含めるには、カンマで区切って入力します。",
+    "megaMenuFieldsRequiredLabel": "フィールド"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Véglegesítés",
+    "cartDropDownText": "__count__ cikk - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ cikk - __currency____totalPrice__",
+    "cartHeading": "Az Ön kosara",
+    "cartTableSumary": "A táblázat a kosárban található cikkeket tartalmazza.",
+    "cartColHeaderImage": "Kép",
+    "cartColHeaderName": "Név",
+    "cartColHeaderQuantity": "Mennyiség",
+    "cartColHeaderItemTotal": "Cikkek összesen",
+    "totalTableSummary": "Kosár összegei",
+    "totalTableSubTotal": "Részösszeg:",
+    "totalTableTotal": "Összesen:",
+    "buttonEditCart": "Kosár szerkesztése",
+    "buttonRemoveItem": "Eltávolítás",
+    "siteNavigationHeader" : "Navigáció a webhelyen",
+    "shoppingCartHeader" : "Kosár összesítése",
+    "skipToContent": "Ugrás a tartalomra",
+    "miniShoppingCartTitle": "Minikosár",
+    "miniShoppingCartScrollUp": "Előző termékcsoport megtekintése",
+    "miniShoppingCartScrollDown": "Következő termékcsoport megtekintése",
+    "updateProfileLocaleModalText": "Menti a profilhoz választott nyelvet?",
+    "minicartText": "Minikosár",
+    "cartOperationsText": "Kosár műveletei"
+  }
+}

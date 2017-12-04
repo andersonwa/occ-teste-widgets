@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "スクロールが必要になる前にミニ・カートに表示する品目数を入力します。",
+    "miniCartNumberOfItemsLabel": "スクロールする前のミニ・カート内の品目数",
+    "miniCartDisplayMiniCartHelpText": "'カートに追加'通知に対してミニカートを表示するかどうかを設定します。",
+    "miniCartDisplayMiniCartTextLabel": "ミニカートの表示",
+    "miniCartMiniCartDurationHelpText": "ミニカートを表示する継続時間(秒)を設定します。",
+    "miniCartMiniCartDurationTextLabel": "継続時間(秒)"
+  }
+}

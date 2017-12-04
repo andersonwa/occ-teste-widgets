@@ -1,0 +1,41 @@
+{
+    "widgetDescriptorName": "PFTheaderWidget",
+    "properties": [{
+            "id": "miniCartNumberOfItems",
+            "type": "stringType",
+            "name": "miniCartNumberOfItems",
+            "helpTextResourceId": "miniCartNumberOfItemsHelpText",
+            "labelResourceId": "miniCartNumberOfItemsLabel",
+            "defaultValue": "3",
+            "required": true
+        },
+        {
+            "id": "displayMiniCart",
+            "type": "booleanType",
+            "name": "displayMiniCart",
+            "helpTextResourceId": "miniCartDisplayMiniCartHelpText",
+            "labelResourceId": "miniCartDisplayMiniCartTextLabel",
+            "defaultValue": true
+        },
+        {
+            "id": "miniCartDuration",
+            "type": "stringType",
+            "name": "miniCartDuration",
+            "helpTextResourceId": "miniCartMiniCartDurationHelpText",
+            "labelResourceId": "miniCartMiniCartDurationTextLabel",
+            "defaultValue": "5",
+            "required": true
+        },
+        {
+            "id": "fields",
+            "type": "stringType",
+            "name": "fields",
+            "helpTextResourceId": "megaMenuFieldsRequiredHelpText",
+            "labelResourceId": "megaMenuFieldsRequiredLabel",
+            "defaultValue": "",
+            "required": false,
+            "pattern": "^[a-zA-Z0-9-_,.()]+$",
+            "maxLength": 5000
+        }
+    ]
+}

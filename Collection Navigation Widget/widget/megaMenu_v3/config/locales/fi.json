@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Syötä pilkuilla erotettu lista kentistä, jotka sisällytetään vastaukseen.",
+    "megaMenuFieldsRequiredLabel": "Kentät"
+  }
+}

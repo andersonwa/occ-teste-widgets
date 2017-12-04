@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Inserire un elenco di campi separati da virgola da includere nella risposta.",
+    "megaMenuFieldsRequiredLabel": "Campi"
+  }
+}

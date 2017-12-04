@@ -1,0 +1,16 @@
+{
+  "widgetDescriptorName": "megaMenu",
+  "properties": [
+    {
+      "id": "fields",
+      "type": "stringType",
+      "name": "fields",
+      "helpTextResourceId": "megaMenuFieldsRequiredHelpText",
+      "labelResourceId": "megaMenuFieldsRequiredLabel",
+      "defaultValue": "",
+      "required": false,
+      "pattern": "^[a-zA-Z0-9-_,.()]+$",
+      "maxLength":5000
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Εισαγάγετε μια λίστα πεδίων διαχωρισμένων με κόμματα προς συμπερίληψη στην απόκριση.",
+    "categoryNavigationFieldsRequiredLabel": "Πεδία"
+  }
+}

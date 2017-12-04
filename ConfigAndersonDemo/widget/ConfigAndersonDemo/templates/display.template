@@ -1,0 +1,8 @@
+ <div class="configDemo”>
+  <!-- ko if: enabled() && showCartMsg() -->
+    <div class="cartMsg stitched"
+    data-bind="onRender: sizeBanner($data)">
+      <span data-bind="text : cartMsg"></span>
+    </div>
+  <!-- /ko -->
+ </div>

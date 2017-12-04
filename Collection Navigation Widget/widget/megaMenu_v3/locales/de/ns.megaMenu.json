@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Menü",
+	"categoryHeader": "Kategorienavigationsmenü",
+	"mobileNavBtnText": "Navigation",
+	"categoryNavScreenReaderText": "__displayName__ hat __categoryLength__ Unterkategorien",
+	"noSubCategoriesText" : "__displayName__ hat keine Unterkategorien"
+  }
+}

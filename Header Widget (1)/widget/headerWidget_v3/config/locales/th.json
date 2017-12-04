@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "คุณต้องป้อนจำนวนของสินค้าที่คุณต้องการแสดงในรถเข็นขนาดเล็กก่อนที่จะเลื่อน",
+    "miniCartNumberOfItemsLabel": "จำนวนของสินค้าในรถเข็นขนาดเล็กก่อนที่จะเลื่อน",
+    "miniCartDisplayMiniCartHelpText": "ตั้งค่าว่าควรแสดงรถเข็นขนาดเล็กสำหรับการแจ้ง 'เพิ่มในรถเข็น' หรือไม่",
+    "miniCartDisplayMiniCartTextLabel": "แสดงรถเข็นขนาดเล็ก",
+    "miniCartMiniCartDurationHelpText": "ตั้งค่าระยะเวลาสำหรับการแสดงรถเข็นขนาดเล็ก (วินาที)",
+    "miniCartMiniCartDurationTextLabel": "ระยะเวลา (วินาที)"
+  }
+}

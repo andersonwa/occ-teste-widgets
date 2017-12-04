@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Angi en liste over kommadelte felt som skal inkluderes i svaret.",
+    "categoryNavigationFieldsRequiredLabel": "Felt"
+  }
+}

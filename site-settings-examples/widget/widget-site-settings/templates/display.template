@@ -1,0 +1,8 @@
+<div class="siteSettingsWidget">
+  <p data-bind="text: site().extensionSiteSettings['site-settings-examples']['booleanItem']"></p>
+  <p data-bind="text: site().extensionSiteSettings['site-settings-examples']['stringItem']"></p>
+  <p data-bind="text: site().extensionSiteSettings['site-settings-examples']['optionItem']"></p>
+  <p data-bind="text: site().extensionSiteSettings['site-settings-examples']['collectionItem']"></p>
+  <p data-bind="text: site().extensionSiteSettings['site-settings-examples']['collectionItem2']"></p>
+  <p Media: data-bind="text: site().extensionSiteSettings['site-settings-examples']['mediaItem']"></p>
+</div>

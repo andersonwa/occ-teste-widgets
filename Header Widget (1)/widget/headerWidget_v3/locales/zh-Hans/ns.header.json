@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "结账",
+    "cartDropDownText": "__count__ 件商品 - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ 件商品 - __currency____totalPrice__",
+    "cartHeading": "您的购物车",
+    "cartTableSumary": "此表包含当前您购物车中的商品列表。",
+    "cartColHeaderImage": "图像",
+    "cartColHeaderName": "名称",
+    "cartColHeaderQuantity": "数量",
+    "cartColHeaderItemTotal": "商品合计",
+    "totalTableSummary": "购物车合计。",
+    "totalTableSubTotal": "小计：",
+    "totalTableTotal": "合计：",
+    "buttonEditCart": "编辑购物车",
+    "buttonRemoveItem": "删除",
+    "siteNavigationHeader" : "站点导航",
+    "shoppingCartHeader" : "购物车汇总",
+    "skipToContent": "跳至内容",
+    "miniShoppingCartTitle": "迷你购物车",
+    "miniShoppingCartScrollUp": "单击可查看上一组产品",
+    "miniShoppingCartScrollDown": "单击可查看下一组产品",
+    "updateProfileLocaleModalText": "是否要将您选择的语言保存到您的配置文件？",
+    "minicartText": "迷你购物车",
+    "cartOperationsText": "购物车操作"
+  }
+}

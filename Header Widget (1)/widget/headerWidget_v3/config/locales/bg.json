@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Въведете броя артикули, които искате да се показват в малката количка, преди да е указано превъртане.",
+    "miniCartNumberOfItemsLabel": "Брой артикули в малката количка преди превъртане",
+    "miniCartDisplayMiniCartHelpText": "Настройте дали малката количка трябва да бъде показана от известие \"добавяне в количката\".",
+    "miniCartDisplayMiniCartTextLabel": "Показване на малка количка",
+    "miniCartMiniCartDurationHelpText": "Настройте продължителността на показване на малката количка (в секунди).",
+    "miniCartMiniCartDurationTextLabel": "Продължителност (в секунди)"
+  }
+}

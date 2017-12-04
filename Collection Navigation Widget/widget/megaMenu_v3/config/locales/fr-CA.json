@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Entrez la liste des champs à inclure dans la réponse, séparés par une virgule.",
+    "megaMenuFieldsRequiredLabel": "Champs"
+  }
+}

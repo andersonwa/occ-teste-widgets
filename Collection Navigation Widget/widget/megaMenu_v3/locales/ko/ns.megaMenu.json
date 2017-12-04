@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "메뉴",
+	"categoryHeader": "범주 탐색 메뉴",
+	"mobileNavBtnText": "탐색",
+	"categoryNavScreenReaderText": "__displayName__ 에 __categoryLength__ 개의 하위 범주가 있음",
+	"noSubCategoriesText" : "__displayName__ 에 하위 범주가 없음"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Valider la commande",
+    "cartDropDownText": "__count__ article(s) - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ articles - __currency____totalPrice__",
+    "cartHeading": "Votre panier",
+    "cartTableSumary": "Cette table contient la liste des articles actuellement dans votre panier.",
+    "cartColHeaderImage": "Image",
+    "cartColHeaderName": "Nom",
+    "cartColHeaderQuantity": "Quantité",
+    "cartColHeaderItemTotal": "Total des articles",
+    "totalTableSummary": "Totaux du panier.",
+    "totalTableSubTotal": "Sous-total :",
+    "totalTableTotal": "Total :",
+    "buttonEditCart": "Modifier le panier",
+    "buttonRemoveItem": "Supprimer",
+    "siteNavigationHeader" : "Navigation sur le site",
+    "shoppingCartHeader" : "Récapitulatif du panier",
+    "skipToContent": "Passer au contenu",
+    "miniShoppingCartTitle": "Mini-panier",
+    "miniShoppingCartScrollUp": "Cliquez pour voir le jeu de produits précédent",
+    "miniShoppingCartScrollDown": "Cliquez pour voir le jeu de produits suivant",
+    "updateProfileLocaleModalText": "Sauvegarder votre sélection de langue pour votre profil ?",
+    "minicartText": "Mini-panier",
+    "cartOperationsText": "Opérations du panier"
+  }
+}

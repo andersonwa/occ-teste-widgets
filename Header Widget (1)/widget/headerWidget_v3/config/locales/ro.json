@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Introduceţi numărul de articole pe care doriţi să le afişaţi în mini-coş înainte de a fi necesară derularea.",
+    "miniCartNumberOfItemsLabel": "Nr. de articole din mini-coş înainte de derulare.",
+    "miniCartDisplayMiniCartHelpText": "Setaţi dacă mini-coşul trebuie afişat pt. înştiinţarea 'Adăugare în coş'.",
+    "miniCartDisplayMiniCartTextLabel": "Afişare mini-coş",
+    "miniCartMiniCartDurationHelpText": "Setaţi durata pt. afişarea mini-coşului (în sec.).",
+    "miniCartMiniCartDurationTextLabel": "Durată (în sec.)"
+  }
+}

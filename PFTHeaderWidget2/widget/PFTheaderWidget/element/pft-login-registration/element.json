@@ -1,0 +1,22 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["PFTheaderWidget"],
+  "tag": "pft-login-registration",
+  "translations": [
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Login"
+    },
+    {
+      "description": "",
+      "language": "en",
+      "title": "Login"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

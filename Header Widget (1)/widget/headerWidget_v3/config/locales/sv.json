@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Ange antalet varor som ska visas i minikundvagnen innan listan måste rullas.",
+    "miniCartNumberOfItemsLabel": "Antal varor i minikundvagnen innan listan måste rullas",
+    "miniCartDisplayMiniCartHelpText": "Ange om minikundvagnen ska visas vid meddelande om tillägg i kundvagn.",
+    "miniCartDisplayMiniCartTextLabel": "Visa minikundvagn",
+    "miniCartMiniCartDurationHelpText": "Ange hur länge minikundvagnen ska visas (i sekunder).",
+    "miniCartMiniCartDurationTextLabel": "Tid (i sekunder)"
+  }
+}

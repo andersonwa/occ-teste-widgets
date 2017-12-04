@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Vous devez entrer le nombre d'articles à afficher dans le mini-panier avant le défilement.",
+    "miniCartNumberOfItemsLabel": "Nombre d'articles dans le mini-panier avant défilement",
+    "miniCartDisplayMiniCartHelpText": "Indiquer si le mini-panier doit être affiché pour la notification Ajout au panier.",
+    "miniCartDisplayMiniCartTextLabel": "Afficher le mini-panier",
+    "miniCartMiniCartDurationHelpText": "Indiquer la durée d'affichage du mini-panier (en secondes).",
+    "miniCartMiniCartDurationTextLabel": "Durée (en secondes)"
+  }
+}

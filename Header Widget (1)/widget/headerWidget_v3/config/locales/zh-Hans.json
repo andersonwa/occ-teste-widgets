@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "输入在需要滚动之前要在迷你购物车中显示的商品数量。",
+    "miniCartNumberOfItemsLabel": "滚动之前迷你购物车中商品数量",
+    "miniCartDisplayMiniCartHelpText": "设置是否要为“添加到购物车”通知显示迷你购物车。",
+    "miniCartDisplayMiniCartTextLabel": "显示迷你购物车",
+    "miniCartMiniCartDurationHelpText": "设置迷你购物车显示的持续时间（秒）。",
+    "miniCartMiniCartDurationTextLabel": "持续时间（秒）"
+  }
+}

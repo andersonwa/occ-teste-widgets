@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Teslim alma",
+    "cartDropDownText": "__count__ item - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ items - __currency____totalPrice__",
+    "cartHeading": "Alışveriş Sepetiniz",
+    "cartTableSumary": "Bu tablo, şu anda alışveriş sepetinizde bulunan kalemlerin listesini içermektedir.",
+    "cartColHeaderImage": "Resim",
+    "cartColHeaderName": "Adı",
+    "cartColHeaderQuantity": "Miktar",
+    "cartColHeaderItemTotal": "Kalem Toplamı",
+    "totalTableSummary": "Alışveriş sepeti toplamları.",
+    "totalTableSubTotal": "Alt Toplam:",
+    "totalTableTotal": "Toplam:",
+    "buttonEditCart": "Sepeti Düzenle",
+    "buttonRemoveItem": "Kaldır",
+    "siteNavigationHeader" : "Sitede Gezinme",
+    "shoppingCartHeader" : "Alışveriş Sepeti Özeti",
+    "skipToContent": "İçeriğe geç",
+    "miniShoppingCartTitle": "Mini Alışveriş Sepeti",
+    "miniShoppingCartScrollUp": "Önceki ürün kümesini görüntülemek için tıklayın.",
+    "miniShoppingCartScrollDown": "Sonraki ürün kümesini görüntülemek için tıklayın",
+    "updateProfileLocaleModalText": "Dil seçiminiz profilinize kaydedilsin mi?",
+    "minicartText": "Mini Alışveriş Sepeti",
+    "cartOperationsText": "Alışveriş Sepeti İşlemleri"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Kassa",
+    "cartDropDownText": "__count__ artikel - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ artikelen - __currency____totalPrice__",
+    "cartHeading": "Uw winkelwagen",
+    "cartTableSumary": "Deze tabel bevat een lijst met artikelen die zich momenteel in uw winkelwagen bevinden.",
+    "cartColHeaderImage": "Afbeelding",
+    "cartColHeaderName": "Naam",
+    "cartColHeaderQuantity": "Hoeveelheid",
+    "cartColHeaderItemTotal": "Totaal artikel",
+    "totalTableSummary": "Totaal winkelwagen",
+    "totalTableSubTotal": "Subtotaal:",
+    "totalTableTotal": "Totaal:",
+    "buttonEditCart": "Winkelwagen bewerken",
+    "buttonRemoveItem": "Verwijderen",
+    "siteNavigationHeader" : "Sitenavigatie",
+    "shoppingCartHeader" : "Overzicht winkelwagen",
+    "skipToContent": "Door naar inhoud",
+    "miniShoppingCartTitle": "Miniwinkelwagen",
+    "miniShoppingCartScrollUp": "Klik hier om de vorige set producten te bekijken.",
+    "miniShoppingCartScrollDown": "Klik hier om de volgende set producten te bekijken.",
+    "updateProfileLocaleModalText": "Wilt u uw taalselectie opslaan in uw profiel?",
+    "minicartText": "Miniwinkelwagen",
+    "cartOperationsText": "Winkelwagenbewerkingen"
+  }
+}

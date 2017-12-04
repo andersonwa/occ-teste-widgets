@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Inserire il numero di articoli da visualizzare nel mini carrello prima che sia necessario lo scorrimento.",
+    "miniCartNumberOfItemsLabel": "Numero di articoli nel mini carrello prima dello scorrimento",
+    "miniCartDisplayMiniCartHelpText": "Imposta se deve essere visualizzato il mini carrello per la notifica 'Aggiungi a carrello'.",
+    "miniCartDisplayMiniCartTextLabel": "Visualizza mini carrello",
+    "miniCartMiniCartDurationHelpText": "Imposta la durata di visualizzazione del mini carrello (in secondi).",
+    "miniCartMiniCartDurationTextLabel": "Durata (in secondi)"
+  }
+}

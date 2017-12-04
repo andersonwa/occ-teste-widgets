@@ -1,0 +1,181 @@
+{
+    "availableToAllWidgets": false,
+    "configOptions": [],
+    "global": false,
+    "inline": false,
+    "supportedWidgetType": ["PFTheaderWidget"],
+    "tag": "pft-header-links",
+    "translations": [{
+            "description": "",
+            "language": "th",
+            "title": "ลิงค์"
+        },
+        {
+            "description": "",
+            "language": "pt_BR",
+            "title": "Links"
+        },
+        {
+            "description": "",
+            "language": "zh_CN",
+            "title": "链接"
+        },
+        {
+            "description": "",
+            "language": "uk",
+            "title": "Зв'язки"
+        },
+        {
+            "description": "",
+            "language": "bg",
+            "title": "Връзки"
+        },
+        {
+            "description": "",
+            "language": "et",
+            "title": "Lingid"
+        },
+        {
+            "description": "",
+            "language": "lv",
+            "title": "Saites"
+        },
+        {
+            "description": "",
+            "language": "no",
+            "title": "Koblinger"
+        },
+        {
+            "description": "",
+            "language": "lt",
+            "title": "Nuorodos"
+        },
+        {
+            "description": "",
+            "language": "fr_CA",
+            "title": "Liens"
+        },
+        {
+            "description": "",
+            "language": "ro",
+            "title": "Linkuri"
+        },
+        {
+            "description": "",
+            "language": "ja",
+            "title": "リンク"
+        },
+        {
+            "description": "",
+            "language": "sl",
+            "title": "Povezave"
+        },
+        {
+            "description": "",
+            "language": "ru",
+            "title": "Ссылки"
+        },
+        {
+            "description": "",
+            "language": "hr",
+            "title": "Veze"
+        },
+        {
+            "description": "",
+            "language": "tr",
+            "title": "Bğlntlr"
+        },
+        {
+            "description": "",
+            "language": "pl",
+            "title": "Łącza"
+        },
+        {
+            "description": "",
+            "language": "zh_TW",
+            "title": "連結"
+        },
+        {
+            "description": "",
+            "language": "ko",
+            "title": "링크"
+        },
+        {
+            "description": "",
+            "language": "cs",
+            "title": "Odkazy"
+        },
+        {
+            "description": "",
+            "language": "hu",
+            "title": "Hivatkoz."
+        },
+        {
+            "description": "",
+            "language": "el",
+            "title": "Δεσμοί"
+        },
+        {
+            "description": "",
+            "language": "da",
+            "title": "Links"
+        },
+        {
+            "description": "Element for holding header links",
+            "language": "en",
+            "title": "Links"
+        },
+        {
+            "description": "",
+            "language": "sr",
+            "title": "Везе"
+        },
+        {
+            "description": "",
+            "language": "de",
+            "title": "Links"
+        },
+        {
+            "description": "",
+            "language": "sr_Latn",
+            "title": "Veze"
+        },
+        {
+            "description": "",
+            "language": "es",
+            "title": "Enlaces"
+        },
+        {
+            "description": "",
+            "language": "fr",
+            "title": "Liens"
+        },
+        {
+            "description": "",
+            "language": "it",
+            "title": "Collegam."
+        },
+        {
+            "description": "",
+            "language": "nl",
+            "title": "Koppel."
+        },
+        {
+            "description": "",
+            "language": "sv",
+            "title": "Länkar"
+        },
+        {
+            "description": "",
+            "language": "pt",
+            "title": "Ligaç."
+        },
+        {
+            "description": "",
+            "language": "fi",
+            "title": "Linkit"
+        }
+    ],
+    "type": "fragment",
+    "version": 6
+}

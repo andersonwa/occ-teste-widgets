@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "체크아웃",
+    "cartDropDownText": "__count__ 개 품목 - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ 개 품목 - __currency____totalPrice__",
+    "cartHeading": "쇼핑 카트",
+    "cartTableSumary": "이 테이블에는 현재 쇼핑 카트에 담겨 있는 품목 목록이 포함되어 있습니다.",
+    "cartColHeaderImage": "이미지",
+    "cartColHeaderName": "이름",
+    "cartColHeaderQuantity": "수량",
+    "cartColHeaderItemTotal": "항목 합계",
+    "totalTableSummary": "쇼핑 카트 합계입니다.",
+    "totalTableSubTotal": "소계:",
+    "totalTableTotal": "합계:",
+    "buttonEditCart": "카트 편집",
+    "buttonRemoveItem": "제거",
+    "siteNavigationHeader" : "사이트 탐색",
+    "shoppingCartHeader" : "쇼핑 카트 요약",
+    "skipToContent": "콘텐츠로 건너뛰기",
+    "miniShoppingCartTitle": "미니 쇼핑 카트",
+    "miniShoppingCartScrollUp": "이전 제품 세트를 보려면 누르기",
+    "miniShoppingCartScrollDown": "다음 제품 세트를 보려면 누르기",
+    "updateProfileLocaleModalText": "언어 선택을 프로파일에 저장하시겠습니까?",
+    "minicartText": "미니 카트",
+    "cartOperationsText": "카트 작업"
+  }
+}

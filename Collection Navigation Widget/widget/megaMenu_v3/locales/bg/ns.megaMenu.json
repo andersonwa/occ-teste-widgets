@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Меню",
+	"categoryHeader": "Меню за навигация в категория",
+	"mobileNavBtnText": "Навигация",
+	"categoryNavScreenReaderText": "__displayName__ има __categoryLength__ подкатегории",
+	"noSubCategoriesText" : "__displayName__ няма подкатегории"
+  }
+}

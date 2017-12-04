@@ -1,0 +1,41 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "displayMiniCart": true,
+    "giftItemImageURL": "/img/GWP_GiftWithPurchase.jpg",
+    "logoAltText": "Logo Alternative Text",
+    "logoImage": "/img/logo.png",
+    "logoPageLink": "home",
+    "miniCartDuration": "5",
+    "miniCartNumberOfItems": "3",
+    "requiredLinks": [
+      "home",
+      "aboutUs",
+      "returns",
+      "shipping",
+      "contactUs",
+      "privacy"
+    ]
+  },
+  "defaultLayout": "headerWidgetDefaultLayout",
+  "global": false,
+  "globalEnabled": true,
+  "imports": [],
+  "javascript": "header",
+  "jsEditable": true,
+  "minWidth": 1,
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "headerWidget",
+  "widgetType": "headerWidget",
+  "translations" : [
+      {
+        "name": "PFTheaderWidget",
+        "language": "pt_BR"
+      },
+      {
+        "name": "PFTheaderWidget",
+        "language": "en"
+      }
+    ]
+}

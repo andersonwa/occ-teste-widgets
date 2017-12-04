@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Valikko",
+	"categoryHeader": "Luokan navigointivalikko",
+	"mobileNavBtnText": "Navigointi",
+	"categoryNavScreenReaderText": "Luokalla __displayName__ on __categoryLength__ aliluokkia",
+	"noSubCategoriesText" : "Luokalla __displayName__ ei ole aliluokkia"
+  }
+}

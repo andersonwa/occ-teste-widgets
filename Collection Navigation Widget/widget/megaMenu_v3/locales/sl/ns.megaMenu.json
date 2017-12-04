@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Meni",
+	"categoryHeader": "Meni krmarjenja po kategoriji",
+	"mobileNavBtnText": "Krmarjenje",
+	"categoryNavScreenReaderText": "__displayName__ ima toliko podkategorij: __categoryLength__",
+	"noSubCategoriesText" : "__displayName__ nima podkategorij"
+  }
+}

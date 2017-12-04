@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Zadejte seznam polí oddělených čárkou, která budou zahrnuta do odpovědi.",
+    "categoryNavigationFieldsRequiredLabel": "Pole"
+  }
+}

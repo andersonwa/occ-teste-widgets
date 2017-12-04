@@ -1,0 +1,37 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "catalogId": "cloudCatalog",
+    "displayMiniCart": true,
+    "fields": "",
+    "giftItemImageURL": "/img/GWP_GiftWithPurchase.jpg",
+    "logoAltText": "Logo Alternative Text",
+    "logoImage": "/file/general/logo.jpg",
+    "logoPageLink": "home",
+    "maxNoOfElements": "10",
+    "miniCartDuration": "5",
+    "miniCartNumberOfItems": "3",
+    "requiredLinks": [
+      "home",
+      "aboutUs",
+      "returns",
+      "shipping",
+      "contactUs",
+      "privacy"
+    ],
+    "rootCategoryId": "rootCategory"
+  },
+  "defaultLayout": "PFTheaderWidget_v8_lyt1",
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "header",
+  "imports": ["category"],
+  "javascript": "header",
+  "jsEditable": true,
+  "minWidth": 1,
+  "name": "PFT Header Sem Linha",
+  "source": 101,
+  "version": 8,
+  "widgetFamily": "headerWidget",
+  "widgetType": "PFTheaderWidget"
+}

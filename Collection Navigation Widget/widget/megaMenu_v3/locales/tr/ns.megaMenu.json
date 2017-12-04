@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Menü",
+	"categoryHeader": "Kategori Gezinme Menüsü",
+	"mobileNavBtnText": "Navigasyon",
+	"categoryNavScreenReaderText": "__displayName__ __categoryLength__ uzunluğunda Alt Kategorilere sahip",
+	"noSubCategoriesText" : "__displayName__ Alt Kategorilere sahip değil"
+  }
+}

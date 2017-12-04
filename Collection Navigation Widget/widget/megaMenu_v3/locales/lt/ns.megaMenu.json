@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Meniu",
+	"categoryHeader": "Kategorijos naršymo meniu",
+	"mobileNavBtnText": "Naršymas",
+	"categoryNavScreenReaderText": "__displayName__ viduje yra __categoryLength__ antrin. kategorij.",
+	"noSubCategoriesText" : "__displayName__ viduje nėra antrinių kategorijų"
+  }
+}

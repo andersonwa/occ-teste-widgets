@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Оформление покупки",
+    "cartDropDownText": "__count__ позиция - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ позиций - __currency____totalPrice__",
+    "cartHeading": "Ваша электронная корзина",
+    "cartTableSumary": "В этой таблице перечислены позиции, находящиеся сейчас в вашей электронной корзине.",
+    "cartColHeaderImage": "Изображение",
+    "cartColHeaderName": "Имя",
+    "cartColHeaderQuantity": "Количество",
+    "cartColHeaderItemTotal": "Итого по позиции",
+    "totalTableSummary": "Итоги для электронной корзины.",
+    "totalTableSubTotal": "Промежуточный итог:",
+    "totalTableTotal": "Итого:",
+    "buttonEditCart": "Изменить карту",
+    "buttonRemoveItem": "Удалить",
+    "siteNavigationHeader" : "Навигация на сайте",
+    "shoppingCartHeader" : "Сводка корзины",
+    "skipToContent": "Переход к контенту",
+    "miniShoppingCartTitle": "Электронная мини-корзина",
+    "miniShoppingCartScrollUp": "Щелкните, чтобы просмотреть предыдущий набор продуктов",
+    "miniShoppingCartScrollDown": "Щелкните, чтобы просмотреть следующий набор продуктов",
+    "updateProfileLocaleModalText": "Сохранить выбранный язык в вашем профиле?",
+    "minicartText": "Мини-корзина",
+    "cartOperationsText": "Операции с корзиной"
+  }
+}

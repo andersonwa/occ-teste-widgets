@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Kasa",
+    "cartDropDownText": "__count__ poz. - __totalPrice____currency__",
+    "cartDropDownText_plural": "__count__ poz. - __totalPrice____currency__",
+    "cartHeading": "Koszyk użytkownika",
+    "cartTableSumary": "Tabela zawiera listę pozycji znajdujących się obecnie w koszyku.",
+    "cartColHeaderImage": "Obraz",
+    "cartColHeaderName": "Nazwa",
+    "cartColHeaderQuantity": "Ilość",
+    "cartColHeaderItemTotal": "Pozycje łącznie",
+    "totalTableSummary": "Sumy pozycji w koszyku.",
+    "totalTableSubTotal": "Suma częściowa:",
+    "totalTableTotal": "Suma:",
+    "buttonEditCart": "Edytuj koszyk",
+    "buttonRemoveItem": "Usuń",
+    "siteNavigationHeader" : "Nawigacja w witrynie",
+    "shoppingCartHeader" : "Podsumowanie koszyka",
+    "skipToContent": "Przejdź do zawartości",
+    "miniShoppingCartTitle": "Minikoszyk",
+    "miniShoppingCartScrollUp": "Należy kliknąć, aby wyświetlić poprzedni zestaw produktów",
+    "miniShoppingCartScrollDown": "Należy kliknąć, aby wyświetlić następny zestaw produktów",
+    "updateProfileLocaleModalText": "Czy zapisać wybór języka w profilu?",
+    "minicartText": "Minikoszyk",
+    "cartOperationsText": "Operacje koszyka"
+  }
+}

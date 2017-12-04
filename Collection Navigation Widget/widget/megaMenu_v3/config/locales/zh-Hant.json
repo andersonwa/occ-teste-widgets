@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "輸入逗號分隔欄位清單以包含在回應中。",
+    "megaMenuFieldsRequiredLabel": "欄位"
+  }
+}

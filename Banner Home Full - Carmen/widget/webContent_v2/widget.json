@@ -1,0 +1,16 @@
+{
+  "availableToAllPages": true,
+  "config": {},
+  "defaultLayout": "webContent_v2_lyt1",
+  "global": false,
+  "globalEnabled": false,
+  "imports": [],
+  "javascript": "web-content",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Banner Home Full - Carmen",
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "webContent",
+  "widgetType": "webContent"
+}

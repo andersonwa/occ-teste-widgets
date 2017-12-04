@@ -1,0 +1,6 @@
+{
+  "name": "Widget - Site Settings",
+  "javascript": "widget-site-settings",
+  "i18nresources": "widgetsitesettings",
+  "pageTypes": ["home"]
+}

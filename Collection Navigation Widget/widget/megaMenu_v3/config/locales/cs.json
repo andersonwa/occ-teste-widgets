@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Zadejte seznam polí oddělených čárkou, která budou zahrnuta do odpovědi.",
+    "megaMenuFieldsRequiredLabel": "Pole"
+  }
+}

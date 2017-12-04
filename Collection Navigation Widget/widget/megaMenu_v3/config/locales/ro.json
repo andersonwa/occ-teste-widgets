@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Introduceţi lista de câmpuri separate prin virgulă, de inclus în răspuns.",
+    "megaMenuFieldsRequiredLabel": "Câmpuri"
+  }
+}

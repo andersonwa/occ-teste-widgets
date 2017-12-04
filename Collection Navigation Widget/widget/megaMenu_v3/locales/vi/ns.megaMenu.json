@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "[PX][Menu ă]",
+	"categoryHeader": "[PX][Category Navigation Menu ă]",
+	"mobileNavBtnText": "[PX][Navigation ă]",
+	"categoryNavScreenReaderText": "[PX][__displayName__ has __categoryLength__ Sub Categories ăơư ăơư ]",
+	"noSubCategoriesText" : "[PX][__displayName__ has No Sub Categories ăơư ]"
+  }
+}

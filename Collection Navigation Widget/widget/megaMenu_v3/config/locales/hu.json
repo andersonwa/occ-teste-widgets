@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Adja meg a válaszban szerepeltetni kívánt mezők listáját vesszővel elválasztva.",
+    "megaMenuFieldsRequiredLabel": "Mezők"
+  }
+}

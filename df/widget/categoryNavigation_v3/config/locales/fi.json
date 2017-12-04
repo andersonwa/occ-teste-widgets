@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Syötä pilkuilla erotettu lista kentistä, jotka sisällytetään vastaukseen.",
+    "categoryNavigationFieldsRequiredLabel": "Kentät"
+  }
+}

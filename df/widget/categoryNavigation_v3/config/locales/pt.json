@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Introduza uma lista de campos separados por vírgulas a incluir na resposta.",
+    "categoryNavigationFieldsRequiredLabel": "Campos"
+  }
+}

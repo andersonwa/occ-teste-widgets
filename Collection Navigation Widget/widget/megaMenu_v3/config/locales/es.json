@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Introduzca una lista de campos separados por comas para incluir en la respuesta.",
+    "megaMenuFieldsRequiredLabel": "Campos"
+  }
+}

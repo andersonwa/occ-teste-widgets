@@ -1,0 +1,21 @@
+{
+    "availableToAllWidgets": false,
+    "configOptions": [],
+    "global": false,
+    "inline": false,
+    "supportedWidgetType": ["PFTheaderWidget"],
+    "tag": "pft-header-dropdown-navigation",
+    "translations": [{
+            "description": "",
+            "language": "pt_BR",
+            "title": "Navegação"
+        },
+        {
+            "description": "",
+            "language": "en",
+            "title": "Navigation"
+        }
+    ],
+    "type": "fragment",
+    "version": 1
+}

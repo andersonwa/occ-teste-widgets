@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Tjek-ud",
+    "cartDropDownText": "__count__ vare - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ varer - __currency____totalPrice__",
+    "cartHeading": "Din indkøbsvogn",
+    "cartTableSumary": "Denne tabel indeholder en liste over varer, der findes i indkøbsvognen i øjeblikket.",
+    "cartColHeaderImage": "Billede",
+    "cartColHeaderName": "Navn",
+    "cartColHeaderQuantity": "Mængde",
+    "cartColHeaderItemTotal": "Varetotal",
+    "totalTableSummary": "Totaler for indkøbsvogn.",
+    "totalTableSubTotal": "Subtotal:",
+    "totalTableTotal": "Total:",
+    "buttonEditCart": "Rediger vogn",
+    "buttonRemoveItem": "Fjern",
+    "siteNavigationHeader" : "Sitenavigering",
+    "shoppingCartHeader" : "Opsummering af indkøbsvogn",
+    "skipToContent": "Spring til indhold",
+    "miniShoppingCartTitle": "Miniindkøbsvogn",
+    "miniShoppingCartScrollUp": "Klik for at se tidligere sæt af produkter",
+    "miniShoppingCartScrollDown": "Klik for at se næste sæt af produkter",
+    "updateProfileLocaleModalText": "Gem dit sprogvalg til profilen?",
+    "minicartText": "Minivogn",
+    "cartOperationsText": "Vognpoperationer"
+  }
+}

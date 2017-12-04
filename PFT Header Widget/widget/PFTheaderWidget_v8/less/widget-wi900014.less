@@ -1,0 +1,217 @@
+#PFTheaderWidget_v8-wi900014 {
+  // TOP HEADER
+
+  .top-main-header {
+    background: #000;
+    color: #fff;
+    height: 50px;
+
+    &__center {}
+
+    &__links-left {}
+
+    &__links-right {
+      .top-main-header__link-item {
+        border: none;
+
+        a {
+          color: #BDBDBD;
+          font-size: 12px;
+
+          &:visited {
+            color: #BDBDBD;
+            font-size: 12px;
+          }
+
+          &:link {
+            color: #BDBDBD;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+
+    &__link-item {
+      display: inline-block;
+      vertical-align: middle;
+      list-style: none;
+      padding: 0 15px;
+      height: 50px;
+      line-height: 50px;
+      border-left: 1px solid rgba(255,255,255,0.2);
+
+      a {
+        text-decoration: none;
+        color: #fff;
+
+        &:link,
+        &:visited {
+          color: #fff;
+        }
+      }
+
+      &--carmen {
+        a {
+          // padding: 15px 10px;
+          font-size: 0;
+          overflow: hidden;
+          text-indent: -99999px;
+
+          &:before {
+            content: '';
+            background: url('/file/general/carmen-mini-logo.png') 0 0 no-repeat;
+            width: 108px;
+            height: 14px;
+            display: inline-block;
+          }
+        }
+      }
+
+      &--rafael {
+        a {
+          font-size: 0;
+          overflow: hidden;
+          text-indent: -99999px;
+
+          &::before {
+            content: '';
+            background: url('/file/general/rs-logo.svg') 0 0 no-repeat;
+            width: 119px;
+            height: 9.59px;
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+
+  .header-checkout {
+    height: 150px;
+    line-height: 150px;
+
+    .safeToBuy {
+      text-align: right;
+
+      span {
+        line-height: 1.2;
+      }
+
+      .text {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: inherit;
+    background-color: initial;
+  }
+
+  .modal.fade.in {
+    // z-index: 1050;
+    background: rgba(0,0,0,0.3);
+  }
+
+  #CC-headerCheckoutWidget {
+    #CC-loginHeader-myAccount {
+      display: none;
+    }
+
+    #CC-loginHeader-login {
+      display: none;
+    }
+
+    .cc-welcome {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .header-checkout {
+      padding: 15px 0;
+      line-height: 1;
+      height: auto;
+
+      .logo--img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .cc-welcome {
+      display: none;
+    }
+  }
+
+  .pft-login-registration-widget {
+    right: 50px;
+    top: 10px;
+
+    .modal-body-message {
+      background-color: rgba(0,0,0,.1);
+      padding: 5px 10px;
+      margin-bottom: 10px;
+
+      p:first-child {
+        font-weight: bold;
+      }
+    }
+
+    .text-danger {
+      float: right;
+    }
+
+    .control-label {
+      position: static;
+      left: auto;
+      width: auto;
+      height: auto;
+      display: inline;
+    }
+
+    #CC-login-modal-footer {
+      display: inline-flex;
+    }
+
+    .modal-footer {
+      padding: 5px 20px 10px;
+      width: 100%;
+      justify-content: center;
+
+      .center-block {
+        display: inline-flex;
+      }
+
+      .cc-button-primary {
+        order: 2;
+        margin: 0 10px;
+        background-color: #6faf2b;
+        border-color: #6faf2b;
+      }
+
+      .cc-button-secondary {
+        order: 1;
+        margin: 0 10px;
+        opacity: 0.7;
+      }
+    }
+
+    #CC-signup {
+      hr {
+        border-color: #ccc;
+      }
+    }
+  }
+    #CC-headermodalpane {
+    .modal-dialog {
+      height: 575px;
+      overflow: auto;
+    }
+  }
+}

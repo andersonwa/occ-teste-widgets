@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Atsiskaitymas",
+    "cartDropDownText": "__count__ item - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ items - __currency____totalPrice__",
+    "cartHeading": "Jūsų pirkinių krepšelis",
+    "cartTableSumary": "Šioje lentelėje pateikiami elementai, dabar esantys pirkinių krepšelyje.",
+    "cartColHeaderImage": "Vaizdas",
+    "cartColHeaderName": "Pavadinimas",
+    "cartColHeaderQuantity": "Kiekis",
+    "cartColHeaderItemTotal": "Prekių bendroji suma",
+    "totalTableSummary": "Pirkinių krepšelio suma.",
+    "totalTableSubTotal": "Tarpinė suma:",
+    "totalTableTotal": "Iš viso:",
+    "buttonEditCart": "Redaguoti krepšelį",
+    "buttonRemoveItem": "Pašalinti",
+    "siteNavigationHeader" : "Naršymas svetainėje",
+    "shoppingCartHeader" : "Pirkinių krepšelio suvestinė",
+    "skipToContent": "Pereiti prie turinio",
+    "miniShoppingCartTitle": "Mažasis pirkinių krepšelis",
+    "miniShoppingCartScrollUp": "Spustelėkite, jei norite peržiūrėti ankstesnį produktų rinkinį",
+    "miniShoppingCartScrollDown": "Spustelėkite, jei norite peržiūrėti paskesnį produktų rinkinį",
+    "updateProfileLocaleModalText": "Įrašyti kalbos pasirinkimą į jūsų profilį?",
+    "minicartText": "Mažasis krepšelis",
+    "cartOperationsText": "Krepšelio operacijos"
+  }
+}

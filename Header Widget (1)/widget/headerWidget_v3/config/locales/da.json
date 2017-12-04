@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Indtast det maksimale antal varer, som du vil vise i minivognen, før rulning er påkrævet.",
+    "miniCartNumberOfItemsLabel": "Antal varer i minivogn før rulning",
+    "miniCartDisplayMiniCartHelpText": "Angiv, om minivogn skal vises til underretningen 'Tilføj til vogn'.",
+    "miniCartDisplayMiniCartTextLabel": "Vis minivogn",
+    "miniCartMiniCartDurationHelpText": "Sæt varigheden for visningen af minivognen (i sek.).",
+    "miniCartMiniCartDurationTextLabel": "Varighed (i sek.)"
+  }
+}

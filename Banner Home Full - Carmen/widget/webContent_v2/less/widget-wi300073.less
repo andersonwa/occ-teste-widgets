@@ -1,0 +1,73 @@
+.accordion {
+        position: relative;
+        margin-bottom: 25px;
+        &-control {
+            cursor: pointer;
+            padding: 0 0 25px 0;
+            text-align: left;
+            border-bottom: 1px solid @gray-1000;
+            h3{
+                text-transform: uppercase;
+                font-size: 17px;
+                margin: 0 auto!important;
+            }
+            i {
+                position: absolute;
+                top: 5px;
+                right: 10px;
+                cursor: pointer;
+                background-image: url(/file/general/seta.svg);
+                width: 19px;
+                height: 10px;
+                transition: all .5s;
+            }
+            &:hover{
+                // background: $bg-accordion;
+            }
+            &.opened{
+                i{
+                    transform: rotate(180deg);
+                }
+                & + .accordion-content{
+                    display: block;
+                }
+            }
+        }
+        &-content {
+            padding: 35px 0;
+            display: none;
+            line-height: 24px;
+            strong{
+              // color: $black;
+            }
+            p {
+                margin-bottom: 25px;
+                &:last-child{
+                    margin-bottom: 0;
+                }
+                & + strong{
+                    margin-top: 20px;
+                }
+            }
+        }
+
+    }
+.institucional-box {
+    background: @gray-100; //   height: 140px;
+    padding: 30px 25px;
+    margin-bottom: 30px;
+    &__title{
+        font-size: 24px;
+        text-transform: uppercase;
+        display: block;
+        margin-bottom: 17px;
+        color: @gray-1000;
+    }
+    p {
+        font-size: 14px;
+        display: inline-block;
+        vertical-align: top;
+        color: @gray-1000;
+        font-weight: 300;
+    }
+}

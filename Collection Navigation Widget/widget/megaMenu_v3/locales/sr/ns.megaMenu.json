@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Мени",
+	"categoryHeader": "Мени \"Навигација категорије\"",
+	"mobileNavBtnText": "Навигација",
+	"categoryNavScreenReaderText": "__displayName__ садржи следећи број поткатегорија: __categoryLength__",
+	"noSubCategoriesText" : "__displayName__ не садржи поткатегорије"
+  }
+}

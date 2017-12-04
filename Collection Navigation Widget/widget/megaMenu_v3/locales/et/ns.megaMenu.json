@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Menüü",
+	"categoryHeader": "Kategooriate navigeerimismenüü",
+	"mobileNavBtnText": "Navigeerimine",
+	"categoryNavScreenReaderText": "__displayName__ sisaldab __categoryLength__ alamkategooriat",
+	"noSubCategoriesText" : "__displayName__ ei sisalda alamkategooriaid"
+  }
+}

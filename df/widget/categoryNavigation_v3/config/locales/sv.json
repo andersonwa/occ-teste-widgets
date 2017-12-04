@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Ange en lista över kommaseparerade fält som ska inkluderas i svaret.",
+    "categoryNavigationFieldsRequiredLabel": "Fält"
+  }
+}

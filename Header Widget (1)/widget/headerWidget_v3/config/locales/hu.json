@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Adja meg a minikosárban görgetés nélkül megjeleníteni kívánt cikkek számát.",
+    "miniCartNumberOfItemsLabel": "A minikosárban görgetés nélkül megjelenítendő cikkek száma",
+    "miniCartDisplayMiniCartHelpText": "Adja meg, hogy a minikosár megjelenjen-e a Hozzáadás a kosárhoz értesítés esetében.",
+    "miniCartDisplayMiniCartTextLabel": "Minikosár megjelenítése",
+    "miniCartMiniCartDurationHelpText": "Adja meg a minikosár megjelenítési időtartamát (másodpercben).",
+    "miniCartMiniCartDurationTextLabel": "Időtartam (másodperc)"
+  }
+}

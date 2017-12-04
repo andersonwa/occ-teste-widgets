@@ -1,0 +1,58 @@
+{
+  "widgetDescriptorName": "testeWidget",
+  "properties": [
+    {
+      "id": "enabled",
+      "type": "booleanType",
+      "name": "enabled",
+      "helpTextResourceId": "enabledHelpText",
+      "labelResourceId": "enabledLabel",
+      "defaultValue": true
+    },
+    {
+      "id": "coupon",
+      "type": "stringType",
+      "name": "coupon",
+      "helpTextResourceId": "couponHelpText",
+      "labelResourceId": "couponLabel",
+      "minLength": 6,
+      "maxLength": 10,
+      "length": true
+    },
+    {
+      "id": "minSpend",
+      "type": "stringType",
+      "name": "minSpend",
+      "helpTextResourceId": "minSpendHelpText",
+      "labelResourceId": "minSpendLabel",
+      "defaultValue": "100",
+      "required": true
+    },
+    {
+      "id": "bannerSize",
+      "type": "optionType",
+      "name": "bannerSize",
+      "required": true,
+      "helpTextResourceId": "sizeHelpText",
+      "labelResourceId": "sizeLabel",
+      "defaultValue": "s",
+      "options": [
+        {
+          "id": "sizeSmall",
+          "value": "s",
+          "labelResourceId": "sizeSmallLabel"
+        },
+        {
+          "id": "sizeMedium",
+          "value": "m",
+          "labelResourceId": "sizeMediumLabel"
+        },
+        {
+          "id": "sizeLarge",
+          "value": "L",
+          "labelResourceId": "sizeLargeLabel"
+        }
+      ]
+    }
+  ]
+}

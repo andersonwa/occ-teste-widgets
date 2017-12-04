@@ -1,0 +1,11 @@
+<!-- oc layout: panels -->
+<div class="row">
+  <div class="oc-panel col-md-12" data-oc-id="panel-1">
+
+    <!-- oc section: rich-text -->
+      <span data-bind="element: 'rich-text'"></span>
+    <!-- /oc -->
+
+  </div>
+</div>
+<!-- /oc -->

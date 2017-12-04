@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "輸入在需要捲動前，您要在迷你購物車中顯示的項目數。",
+    "miniCartNumberOfItemsLabel": "捲動前迷你購物車中的項目數",
+    "miniCartDisplayMiniCartHelpText": "設定是否應為「新增至購物車」通知顯示迷你購物車。",
+    "miniCartDisplayMiniCartTextLabel": "顯示迷你購物車",
+    "miniCartMiniCartDurationHelpText": "設定迷你購物車顯示的持續時間 (以秒計)。",
+    "miniCartMiniCartDurationTextLabel": "持續時間 (以秒計)"
+  }
+}

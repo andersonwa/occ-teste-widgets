@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Unesite broj stavki koje će se prikazati u mini pregledu košarice prije pomicanja.",
+    "miniCartNumberOfItemsLabel": "Broj stavki u mini pregledu košarice prije pomicanja",
+    "miniCartDisplayMiniCartHelpText": "Postavite treba li se mini pregled košarice prikazati za obavijest \"dodaj u košaricu\".",
+    "miniCartDisplayMiniCartTextLabel": "Prikaži mini pregled košarice",
+    "miniCartMiniCartDurationHelpText": "Postavite trajanje prikaza mini pregleda košarice (u sekundama).",
+    "miniCartMiniCartDurationTextLabel": "Trajanje (u sekundama)"
+  }
+}

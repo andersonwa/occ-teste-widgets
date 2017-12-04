@@ -1,0 +1,21 @@
+{
+  "resources" : {
+    "booleanHelpText": "Wählen Sie einen Booleschen Wert.",
+    "booleanLabel": "Boolean",
+    "stringHelpText": "Definieren Sie einen String-Wert.",
+    "stringLabel": "String",
+    "optionHelpText": "Wählen Sie die Option Größe.",
+    "optionLabel": "Option auswählen",
+    "sizeSmallLabel": "Klein",
+    "sizeMediumLabel": "Mittel",
+    "sizeLargeLabel": "groß",
+    "collectionPickerValueHelpText" : "Sammlung Picker Hilfetext",
+    "collectionPickerValueLabel":"Sammlung Picker Wert ( Limit: 5)",
+    "collectionPickerValueHelpText2" : "Sammlung Picker 2 Hilfetext",
+    "collectionPickerValueLabel2":"Sammlung Picker 2 Value (Keine Begrenzung)",
+    "mediaPickerValueHelpText" : "Media-Auswahl Hilfetext",
+    "mediaPickerValueLabel":"Media-Auswahl Wert",
+    "title": "Site-Einstellungen Beispiele",
+    "description":"Site-Einstellungen Beispiele Beschreibung"
+  }
+}

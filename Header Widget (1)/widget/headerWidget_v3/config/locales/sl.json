@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Vnesite število artiklov, ki jih želite prikazati v mini vozičku, preden je zahtevano pomikanje.",
+    "miniCartNumberOfItemsLabel": "Število artiklov v mini vozičku pred pomikanjem",
+    "miniCartDisplayMiniCartHelpText": "Nastavite, ali naj bo mini voziček prikazan za obvestilo \"dodajanje v voziček\".",
+    "miniCartDisplayMiniCartTextLabel": "Prikaz mini vozička",
+    "miniCartMiniCartDurationHelpText": "Nastavitev trajanja prikaza mini vozička (v sekundah).",
+    "miniCartMiniCartDurationTextLabel": "Trajanje (v sekundah)"
+  }
+}

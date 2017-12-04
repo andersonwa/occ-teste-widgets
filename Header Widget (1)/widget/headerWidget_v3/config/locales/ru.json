@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Укажите максимальное число позиций, отображаемых в мини-корзине до появления линейки прокрутки.",
+    "miniCartNumberOfItemsLabel": "Число позиций в мини-корзине до прокрутки",
+    "miniCartDisplayMiniCartHelpText": "Укажите, следует ли отображать мини-корзину для уведомления \"Добавить в корзину\".",
+    "miniCartDisplayMiniCartTextLabel": "Отображать мини-корзину",
+    "miniCartMiniCartDurationHelpText": "Установите продолжительность отображения мини-корзины (в секундах).",
+    "miniCartMiniCartDurationTextLabel": "Продолжительность (с)"
+  }
+}

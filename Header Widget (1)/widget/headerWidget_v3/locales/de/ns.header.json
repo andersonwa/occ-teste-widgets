@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Checkout",
+    "cartDropDownText": "__count__ Artikel - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ Artikel - __currency____totalPrice__",
+    "cartHeading": "Ihr Warenkorb",
+    "cartTableSumary": "Diese Tabelle enthält eine Liste der Artikel, die sich zurzeit in Ihrem Warenkorb befinden.",
+    "cartColHeaderImage": "Bild",
+    "cartColHeaderName": "Name",
+    "cartColHeaderQuantity": "Menge",
+    "cartColHeaderItemTotal": "Artikel gesamt",
+    "totalTableSummary": "Warenkorb gesamt.",
+    "totalTableSubTotal": "Zwischensumme:",
+    "totalTableTotal": "Summe:",
+    "buttonEditCart": "Warenkorb bearbeiten",
+    "buttonRemoveItem": "Entfernen",
+    "siteNavigationHeader" : "Sitenavigation",
+    "shoppingCartHeader" : "Warenkorbübersicht",
+    "skipToContent": "Zum Inhalt wechseln",
+    "miniShoppingCartTitle": "Kleiner Warenkorb",
+    "miniShoppingCartScrollUp": "Klicken, um vorheriges Produktset anzuzeigen",
+    "miniShoppingCartScrollDown": "Klicken, um nächstes Produktset anzuzeigen",
+    "updateProfileLocaleModalText": "Soll Ihre Sprachauswahl in Ihrem Profil gespeichert werden?",
+    "minicartText": "Kleiner Warenkorb",
+    "cartOperationsText": "Warenkorbvorgänge"
+  }
+}

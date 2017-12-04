@@ -1,0 +1,21 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "catalogId": "cloudCatalog",
+    "fields": "",
+    "maxNoOfElements": "10",
+    "rootCategoryId": "rootCategory"
+  },
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "categorynavigation",
+  "imports": ["category"],
+  "javascript": "category-navigation",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "df",
+  "source": 100,
+  "version": 3,
+  "widgetFamily": "categoryNavigation",
+  "widgetType": "categoryNavigation"
+}

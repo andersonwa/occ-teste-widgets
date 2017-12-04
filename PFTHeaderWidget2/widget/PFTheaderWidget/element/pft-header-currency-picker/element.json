@@ -1,0 +1,187 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["PFTheaderWidget"],
+  "tag": "pft-header-currency-picker",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "สกุลเงิน"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Moeda"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "币种"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Валюта"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Валута"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Valuuta"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Valūta"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Valiuta"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Devise"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Monedă"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Denarna enota"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "通貨"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Валюта"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Para Birimi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Waluta"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "幣別"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "통화"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Měna"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Pénznem"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Νόμισμα"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Valuta"
+    },
+    {
+      "description": "Element for holding currency picker options",
+      "language": "en",
+      "title": "Currency"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Валута"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Währung"
+    },
+    {
+      "description": "",
+      "language": "sr_Latn",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Moneda"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Devise"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "en_GB",
+      "title": "Currency"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Valuta"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Moeda"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Valuutta"
+    }
+  ],
+  "type": "fragment",
+  "version": 7
+}

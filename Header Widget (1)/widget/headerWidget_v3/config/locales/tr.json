@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Kaydırma gerekmeden önce mini alışveriş sepetinde görüntülemek istediğiniz kalemlerin sayısını girin.",
+    "miniCartNumberOfItemsLabel": "Kaydırmadan önce mini alışveriş sepetindeki kalemlerin sayısı",
+    "miniCartDisplayMiniCartHelpText": "Mini alışveriş sepetinin 'sepete ekle' bildirimi için görüntülenip görüntülenmeyeceğini ayarlayın.",
+    "miniCartDisplayMiniCartTextLabel": "Mini Alışveriş Sepetini Görüntüle",
+    "miniCartMiniCartDurationHelpText": "Mini alışveriş sepetinin görüntüleneceği süreyi ayarlayın (saniye olarak).",
+    "miniCartMiniCartDurationTextLabel": "Süre (saniye)"
+  }
+}

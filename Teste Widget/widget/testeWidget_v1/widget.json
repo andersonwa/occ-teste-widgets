@@ -1,0 +1,13 @@
+{
+  "name": "Config Demo",
+  "javascript": "config-demo",
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "global": false,
+  "config": {
+    "enabled": true,
+    "coupon": "SHIP100",
+    "minSpend": "100",
+    "bannerSize": "s"
+  }
+}

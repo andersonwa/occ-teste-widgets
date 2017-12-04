@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "เมนู",
+	"categoryHeader": "เมนูการนาวิเกตชนิด",
+	"mobileNavBtnText": "การนาวิเกต",
+	"categoryNavScreenReaderText": "__displayName__ มีชนิดย่อย __categoryLength__ รายการ",
+	"noSubCategoriesText" : "__displayName__ ไม่มีชนิดย่อย"
+  }
+}

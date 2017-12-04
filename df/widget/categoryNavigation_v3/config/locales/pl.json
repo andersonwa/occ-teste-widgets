@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Należy wprowadzić listę pól rozdzielonych przecinkami, które zostaną uwzględnione w odpowiedzi.",
+    "categoryNavigationFieldsRequiredLabel": "Pola"
+  }
+}

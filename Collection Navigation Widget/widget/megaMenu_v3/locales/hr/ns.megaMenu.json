@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Izbornik",
+	"categoryHeader": "Navigacijski izbornik za kategoriju",
+	"mobileNavBtnText": "Navigacija",
+	"categoryNavScreenReaderText": "__displayName__ ima __categoryLength__ potkategorije",
+	"noSubCategoriesText" : "__displayName__ nema potkategorija"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Přejít k pokladně",
+    "cartDropDownText": "__count__ položka - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ položky/položek - __currency____totalPrice__",
+    "cartHeading": "Váš nákupní košík",
+    "cartTableSumary": "Tato tabulka obsahuje seznam položek ve vašem nákupním košíku.",
+    "cartColHeaderImage": "Obrázek",
+    "cartColHeaderName": "Název",
+    "cartColHeaderQuantity": "Množství",
+    "cartColHeaderItemTotal": "Položka celkem",
+    "totalTableSummary": "Součtové položky nákupního košíku",
+    "totalTableSubTotal": "Mezisoučet:",
+    "totalTableTotal": "Celkem:",
+    "buttonEditCart": "Upravit košík",
+    "buttonRemoveItem": "Odebrat",
+    "siteNavigationHeader" : "Navigace na webu",
+    "shoppingCartHeader" : "Přehled zboží v nákupním košíku",
+    "skipToContent": "Přejít na obsah",
+    "miniShoppingCartTitle": "Nákupní minikošík",
+    "miniShoppingCartScrollUp": "Kliknutím zobrazit předchozí sadu produktů",
+    "miniShoppingCartScrollDown": "Kliknutím zobrazit novou sadu produktů",
+    "updateProfileLocaleModalText": "Chcete provedený výběr jazyka uložit do svého profilu?",
+    "minicartText": "Nákupní minikošík",
+    "cartOperationsText": "Operace košíku"
+  }
+}

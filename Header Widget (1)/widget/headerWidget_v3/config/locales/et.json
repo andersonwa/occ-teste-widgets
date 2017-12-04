@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Sisestage nende toodete arv, mida soovite enne kerimise nõudmist kuvada miniostukorvis.",
+    "miniCartNumberOfItemsLabel": "Enne kerimist miniostukorvis kuvatavate toodete arv",
+    "miniCartDisplayMiniCartHelpText": "Saate määrata, kas teatise „Lisa ostukorvi“ puhul tuleks lisada miniostukorv.",
+    "miniCartDisplayMiniCartTextLabel": "Kuva miniostukorv",
+    "miniCartMiniCartDurationHelpText": "Miniostukorvi kuvamise kestus (sekundites).",
+    "miniCartMiniCartDurationTextLabel": "Kestus (sekundites)"
+  }
+}

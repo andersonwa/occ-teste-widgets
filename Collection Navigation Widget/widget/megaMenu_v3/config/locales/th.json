@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "ป้อนลิสต์ของฟิลด์ที่คั่นด้วยคอมมาที่จะรวมในการตอบกลับ",
+    "megaMenuFieldsRequiredLabel": "ฟิลด์"
+  }
+}

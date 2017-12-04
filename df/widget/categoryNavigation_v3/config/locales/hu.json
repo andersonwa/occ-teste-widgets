@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Adja meg a válaszban szerepeltetni kívánt mezők listáját vesszővel elválasztva.",
+    "categoryNavigationFieldsRequiredLabel": "Mezők"
+  }
+}

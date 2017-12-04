@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Zadejte počet položek, které se mají zobrazit v minikošíku, než bude vyžadováno posunutí.",
+    "miniCartNumberOfItemsLabel": "Počet položek v minikošíku před posunutím",
+    "miniCartDisplayMiniCartHelpText": "Nastavte, zda má být minikošík zobrazen na oznámení \"Přidat do košíku\".",
+    "miniCartDisplayMiniCartTextLabel": "Zobrazit minikošík",
+    "miniCartMiniCartDurationHelpText": "Nastavte dobu trvání pro zobrazení minikošíku (v sekundách).",
+    "miniCartMiniCartDurationTextLabel": "Doba trvání (sekundy)"
+  }
+}

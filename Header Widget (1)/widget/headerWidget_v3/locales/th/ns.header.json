@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "เช็คเอาต์",
+    "cartDropDownText": "__count__ รายการ - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ รายการ - __currency____totalPrice__",
+    "cartHeading": "รถเข็นของคุณ",
+    "cartTableSumary": "ตารางนี้มีลิสต์สินค้าที่อยู่ในรถเข็นของคุณในขณะนี้",
+    "cartColHeaderImage": "ภาพ",
+    "cartColHeaderName": "ชื่อ",
+    "cartColHeaderQuantity": "ปริมาณ",
+    "cartColHeaderItemTotal": "ยอดรวมสินค้า",
+    "totalTableSummary": "ยอดรวมรถเข็น",
+    "totalTableSubTotal": "ยอดรวมย่อย:",
+    "totalTableTotal": "ยอดรวม:",
+    "buttonEditCart": "แก้ไขรถเข็น",
+    "buttonRemoveItem": "ลบ",
+    "siteNavigationHeader" : "การนาวิเกตไซต์",
+    "shoppingCartHeader" : "สรุปรายการรถเข็น",
+    "skipToContent": "ข้ามไปที่เนื้อหา",
+    "miniShoppingCartTitle": "รถเข็นขนาดเล็ก",
+    "miniShoppingCartScrollUp": "คลิกเพื่อดูชุดผลิตภัณฑ์ก่อนหน้า",
+    "miniShoppingCartScrollDown": "คลิกเพื่อดูชุดผลิตภัณฑ์ถัดไป",
+    "updateProfileLocaleModalText": "บันทึกการเลือกภาษาของคุณในโปรไฟล์ของคุณหรือไม่",
+    "minicartText": "รถเข็นขนาดเล็ก",
+    "cartOperationsText": "การดำเนินการของรถเข็น"
+  }
+}

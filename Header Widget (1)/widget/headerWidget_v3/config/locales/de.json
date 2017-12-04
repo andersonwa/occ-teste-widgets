@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Geben Sie die Anzahl an Artikeln ein, die im Miniwarenkorb angezeigt werden sollen, bevor gescrollt werden muss.",
+    "miniCartNumberOfItemsLabel": "Anzahl Artikel in Miniwarenkorb vor Scrollen",
+    "miniCartDisplayMiniCartHelpText": "Legen Sie fest, ob der Miniwarenkorb für die Benachrichtigung \"In den Warenkorb\" angezeigt werden soll.",
+    "miniCartDisplayMiniCartTextLabel": "Miniwarenkorb anzeigen",
+    "miniCartMiniCartDurationHelpText": "Legen Sie die Dauer (in Sekunden) für die Anzeige des Miniwarenkorbs fest.",
+    "miniCartMiniCartDurationTextLabel": "Dauer (in Sekunden)"
+  }
+}

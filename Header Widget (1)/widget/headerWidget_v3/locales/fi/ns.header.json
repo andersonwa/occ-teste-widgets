@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Kassa",
+    "cartDropDownText": "__count__ nimike - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ nimikettä - __currency____totalPrice__",
+    "cartHeading": "Ostoskorisi",
+    "cartTableSumary": "Tämä taulukko sisältää ostoskorissasi olevien nimikkeiden luettelon.",
+    "cartColHeaderImage": "Kuva",
+    "cartColHeaderName": "Nimi",
+    "cartColHeaderQuantity": "Määrä",
+    "cartColHeaderItemTotal": "Nimikkeet yhteensä",
+    "totalTableSummary": "Ostoskori yhteensä.",
+    "totalTableSubTotal": "Välisumma:",
+    "totalTableTotal": "Yhteensä:",
+    "buttonEditCart": "Muokkaa ostoskoria",
+    "buttonRemoveItem": "Poista",
+    "siteNavigationHeader" : "Navigointi sivustossa",
+    "shoppingCartHeader" : "Ostoskorin yhteenveto",
+    "skipToContent": "Siirry suoraan sisältöön",
+    "miniShoppingCartTitle": "Pienoisostoskori",
+    "miniShoppingCartScrollUp": "Näytä edellinen tuotteiden joukko napsauttamalla tätä",
+    "miniShoppingCartScrollDown": "Näytä seuraava tuotteiden joukko napsauttamalla tätä",
+    "updateProfileLocaleModalText": "Tallennetaanko kielivalintasi profiiliisi?",
+    "minicartText": "Pienoisostoskori",
+    "cartOperationsText": "Ostoskoritoiminnot"
+  }
+}

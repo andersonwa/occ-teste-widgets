@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Indtast en liste over kommaseparerede felter, der skal medtages i responsen.",
+    "categoryNavigationFieldsRequiredLabel": "Felter"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Voer in hoeveel artikelen u wilt weergegeven in de miniwinkelwagen voordat het nodig is te schuiven.",
+    "miniCartNumberOfItemsLabel": "Aantal artikelen in miniwinkelwagen voordat schuiven nodig is",
+    "miniCartDisplayMiniCartHelpText": "Geef aan of miniwinkelwagen moet worden weergegeven bij de melding 'Toevoegen aan winkelwagen'.",
+    "miniCartDisplayMiniCartTextLabel": "Miniwinkelwagen weergeven",
+    "miniCartMiniCartDurationHelpText": "Stel de duur voor weergave van miniwinkelwagen in (in seconden).",
+    "miniCartMiniCartDurationTextLabel": "Duur (in seconden)"
+  }
+}

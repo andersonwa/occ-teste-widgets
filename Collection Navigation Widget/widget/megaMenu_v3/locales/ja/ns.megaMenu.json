@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "メニュー",
+	"categoryHeader": "カテゴリ・ナビゲーション・メニュー",
+	"mobileNavBtnText": "ナビゲーション",
+	"categoryNavScreenReaderText": "__displayName__ には __categoryLength__ のサブカテゴリがあります",
+	"noSubCategoriesText" : "__displayName__にはサブカテゴリがありません"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Meni",
+	"categoryHeader": "Meni \"Navigacija kategorije\"",
+	"mobileNavBtnText": "Navigacija",
+	"categoryNavScreenReaderText": "__displayName__ sadrži sledeći broj potkategorija: __categoryLength__",
+	"noSubCategoriesText" : "__displayName__ ne sadrži potkategorije"
+  }
+}

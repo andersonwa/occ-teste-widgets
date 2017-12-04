@@ -1,0 +1,27 @@
+{
+  "name": "Commerce-Cloud-Connect",
+  "version": "1.0.1",
+  "description": "Development tools for Oracle Commerce Cloud.",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "ccc": "./index.js",
+    "dcu": "./index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "dialog": "^0.2.0",
+    "enumify": "^1.0.4",
+    "mkdirp": "^0.5.1",
+    "node-rest-client": "^2.0.1",
+    "os-locale": "^2.0.0",
+    "remove": "^0.1.5",
+    "sanitize-filename": "^1.6.1",
+    "tmp": "^0.0.31",
+    "unzipper": "^0.8.5",
+    "upath": "^0.2.0",
+    "walk": "^2.3.9"
+  }
+}

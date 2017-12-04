@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "스크롤이 필요하기 전에 미니 카트에 표시할 항목 수를 입력하십시오.",
+    "miniCartNumberOfItemsLabel": "스크롤 전 미니 카트의 항목 수",
+    "miniCartDisplayMiniCartHelpText": "'카트에 추가' 통지에 미니 카트를 표시할지 여부를 설정합니다.",
+    "miniCartDisplayMiniCartTextLabel": "미니 카트 표시",
+    "miniCartMiniCartDurationHelpText": "미니 카트의 표시 기간(초 단위)을 설정합니다.",
+    "miniCartMiniCartDurationTextLabel": "기간(초)"
+  }
+}

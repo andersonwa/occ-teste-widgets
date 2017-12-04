@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Należy wprowadzić maksymalną liczbę pozycji, która ma być wyświetlana w minikoszyku zanim przewijanie będzie konieczne.",
+    "miniCartNumberOfItemsLabel": "Liczba pozycji w minikoszyku zanim przewijanie będzie konieczne",
+    "miniCartDisplayMiniCartHelpText": "Należy określić, czy minikoszyk ma być wyświetlany w powiadomieniu \"Dodaj do koszyka\".",
+    "miniCartDisplayMiniCartTextLabel": "Wyświetlanie minikoszyka",
+    "miniCartMiniCartDurationHelpText": "Należy określić czas wyświetlania minikoszyka (w sekundach).",
+    "miniCartMiniCartDurationTextLabel": "Czas trwania (w sekundach)"
+  }
+}

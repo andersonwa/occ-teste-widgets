@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Een lijst invoeren met door komma's gescheiden velden die in de reactie moeten worden opgenomen",
+    "megaMenuFieldsRequiredLabel": "Velden"
+  }
+}

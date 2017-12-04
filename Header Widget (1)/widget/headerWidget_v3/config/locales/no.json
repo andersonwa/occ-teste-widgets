@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Angi antall artikler som skal vises i minihandlekurven før rulling er nødvendig.",
+    "miniCartNumberOfItemsLabel": "Antall artikler i minihandlekurv før rulling",
+    "miniCartDisplayMiniCartHelpText": "Angi om minihandlekurven skal vises for varslet Legg i handlekurv.",
+    "miniCartDisplayMiniCartTextLabel": "Vis minihandlekurv",
+    "miniCartMiniCartDurationHelpText": "Angi hvor lenge minihandlekurven skal vises (i sekunder).",
+    "miniCartMiniCartDurationTextLabel": "Varighet (i sekunder)"
+  }
+}

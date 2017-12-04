@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Ievadiet preču skaitu, ko vēlaties parādīt mazajā groziņā, pirms ir nepieciešama ritināšana.",
+    "miniCartNumberOfItemsLabel": "Preču skaits mazajā groziņā pirms ritināšanas.",
+    "miniCartDisplayMiniCartHelpText": "Iestatiet, vai mazais groziņš ir jāparāda paziņojumā par pievienošanu grozam.",
+    "miniCartDisplayMiniCartTextLabel": "Parādīt mazo groziņu",
+    "miniCartMiniCartDurationHelpText": "Iestatiet mazā groziņa rādīšanas ilgumu (sekundēs).",
+    "miniCartMiniCartDurationTextLabel": "Ilgums (sekundēs)"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "Entrez la liste des champs à inclure dans la réponse, séparés par une virgule.",
+    "categoryNavigationFieldsRequiredLabel": "Champs"
+  }
+}

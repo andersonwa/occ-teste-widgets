@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "菜单",
+	"categoryHeader": "类别导航菜单",
+	"mobileNavBtnText": "导航",
+	"categoryNavScreenReaderText": "__displayName__ 具有 __categoryLength__ 个子类别",
+	"noSubCategoriesText" : "__displayName__ 没有子类别"
+  }
+}

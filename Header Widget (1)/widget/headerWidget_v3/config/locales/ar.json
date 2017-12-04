@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "يجب إدخال عدد الأصناف المطلوب عرضها في العربة الصغيرة قبل التمرير.",
+    "miniCartNumberOfItemsLabel": "عدد الأصناف في العربة الصغيرة قبل التمرير",
+    "miniCartDisplayMiniCartHelpText": "إعداد ما إذا كان يجب عرض العربة الصغيرة لإخطار \"إضافة إلى العربة\" أم لا.",
+    "miniCartDisplayMiniCartTextLabel": "عرض العربة الصغيرة",
+    "miniCartMiniCartDurationHelpText": "إعداد مدة عرض العربة الصغيرة (بالثواني).",
+    "miniCartMiniCartDurationTextLabel": "المدة (بالثواني)"
+  }
+}

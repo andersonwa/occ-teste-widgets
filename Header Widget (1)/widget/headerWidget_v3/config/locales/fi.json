@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Syötä niiden kohteiden määrä, jotka haluat näyttää miniostoskorissa, ennen kuin näyttöä täytyy vierittää.",
+    "miniCartNumberOfItemsLabel": "Kohteiden määrä miniostoskorissa ennen näytön vieritystä",
+    "miniCartDisplayMiniCartHelpText": "Määritä, näytetäänkö miniostoskori Lisää ostoskoriin -ilmoituksen yhteydessä.",
+    "miniCartDisplayMiniCartTextLabel": "Näytä miniostoskori",
+    "miniCartMiniCartDurationHelpText": "Määritä, kuinka kauan miniostoskori on näkyvissä (sekunteina).",
+    "miniCartMiniCartDurationTextLabel": "Kesto (sekunteina)"
+  }
+}

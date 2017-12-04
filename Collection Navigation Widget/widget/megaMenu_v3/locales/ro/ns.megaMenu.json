@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Meniu",
+	"categoryHeader": "Meniu navigare categorie",
+	"mobileNavBtnText": "Navigare",
+	"categoryNavScreenReaderText": "__displayName__ are __categoryLength__ subcategorii",
+	"noSubCategoriesText" : "__displayName__ nu are subcategorii"
+  }
+}

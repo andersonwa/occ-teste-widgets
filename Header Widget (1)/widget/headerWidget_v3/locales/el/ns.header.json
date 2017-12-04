@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Ταμείο",
+    "cartDropDownText": "__count__ είδος - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ είδη - __currency____totalPrice__",
+    "cartHeading": "Το καλάθι αγορών σας",
+    "cartTableSumary": "Αυτός ο πίνακας περιέχει μια λίστα ειδών τα οποία βρίσκονται στο καλάθι αγορών σας.",
+    "cartColHeaderImage": "Εικόνα",
+    "cartColHeaderName": "Όνομα",
+    "cartColHeaderQuantity": "Ποσότητα",
+    "cartColHeaderItemTotal": "Σύνολο είδους",
+    "totalTableSummary": "Σύνολα καλαθιού αγορών.",
+    "totalTableSubTotal": "Μερικό σύνολο:",
+    "totalTableTotal": "Σύνολο:",
+    "buttonEditCart": "Επεξεργασία καλαθιού",
+    "buttonRemoveItem": "Αφαίρεση",
+    "siteNavigationHeader" : "Πλοήγηση στην τοποθεσία",
+    "shoppingCartHeader" : "Σύνοψη καλαθιού αγορών",
+    "skipToContent": "Μετάβαση στο περιεχόμενο",
+    "miniShoppingCartTitle": "Μικρό καλάθι αγορών",
+    "miniShoppingCartScrollUp": "Κάντε κλικ για να δείτε το προηγούμενο σύνολο προϊόντων",
+    "miniShoppingCartScrollDown": "Κάντε κλικ για να δείτε το επόμενο σύνολο προϊόντων",
+    "updateProfileLocaleModalText": "Να αποθηκευτεί η επιλογή γλώσσας στο προφίλ σας;",
+    "minicartText": "Μικρό καλάθι",
+    "cartOperationsText": "Λειτουργίες καλαθιού"
+  }
+}

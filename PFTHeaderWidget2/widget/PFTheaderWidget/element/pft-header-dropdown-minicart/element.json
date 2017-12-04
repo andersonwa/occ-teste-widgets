@@ -1,0 +1,181 @@
+{
+    "availableToAllWidgets": false,
+    "configOptions": [],
+    "global": false,
+    "inline": false,
+    "supportedWidgetType": ["PFTheaderWidget"],
+    "tag": "pft-header-dropdown-minicart",
+    "translations": [{
+            "description": "",
+            "language": "th",
+            "title": "ลิงค์รถเข็น"
+        },
+        {
+            "description": "",
+            "language": "pt_BR",
+            "title": "Link Carrinho"
+        },
+        {
+            "description": "",
+            "language": "zh_CN",
+            "title": "购物车链接"
+        },
+        {
+            "description": "",
+            "language": "uk",
+            "title": "До кошика"
+        },
+        {
+            "description": "",
+            "language": "bg",
+            "title": "Връзка за кол."
+        },
+        {
+            "description": "",
+            "language": "et",
+            "title": "Ostukorvi link"
+        },
+        {
+            "description": "",
+            "language": "lv",
+            "title": "Groza saite"
+        },
+        {
+            "description": "",
+            "language": "no",
+            "title": "Kurvkobling"
+        },
+        {
+            "description": "",
+            "language": "lt",
+            "title": "Krepšelio nuor"
+        },
+        {
+            "description": "",
+            "language": "fr_CA",
+            "title": "Lien de panier"
+        },
+        {
+            "description": "",
+            "language": "ro",
+            "title": "Link coş"
+        },
+        {
+            "description": "",
+            "language": "ja",
+            "title": "カート・リンク"
+        },
+        {
+            "description": "",
+            "language": "sl",
+            "title": "Pov. vozička"
+        },
+        {
+            "description": "",
+            "language": "ru",
+            "title": "Ссыл. на корз."
+        },
+        {
+            "description": "",
+            "language": "hr",
+            "title": "Veza košarice"
+        },
+        {
+            "description": "",
+            "language": "tr",
+            "title": "Sepet Bğlnts"
+        },
+        {
+            "description": "",
+            "language": "pl",
+            "title": "Łącze koszyka"
+        },
+        {
+            "description": "",
+            "language": "zh_TW",
+            "title": "購物車連結"
+        },
+        {
+            "description": "",
+            "language": "ko",
+            "title": "카트 링크"
+        },
+        {
+            "description": "",
+            "language": "cs",
+            "title": "Odkaz na košík"
+        },
+        {
+            "description": "",
+            "language": "hu",
+            "title": "Kosárhivatkoz."
+        },
+        {
+            "description": "",
+            "language": "el",
+            "title": "Δεσμός καλαθ."
+        },
+        {
+            "description": "",
+            "language": "da",
+            "title": "Vogn (link)"
+        },
+        {
+            "description": "Element for holding header dropdown minicart",
+            "language": "en",
+            "title": "Cart Link"
+        },
+        {
+            "description": "",
+            "language": "sr",
+            "title": "Веза за корпу"
+        },
+        {
+            "description": "",
+            "language": "de",
+            "title": "Warenkorblink"
+        },
+        {
+            "description": "",
+            "language": "sr_Latn",
+            "title": "Veza za korpu"
+        },
+        {
+            "description": "",
+            "language": "es",
+            "title": "Enlace carro"
+        },
+        {
+            "description": "",
+            "language": "fr",
+            "title": "Lien Panier"
+        },
+        {
+            "description": "",
+            "language": "it",
+            "title": "Coll. carrello"
+        },
+        {
+            "description": "",
+            "language": "nl",
+            "title": "Koppel. wagen"
+        },
+        {
+            "description": "",
+            "language": "sv",
+            "title": "Kundvagnslänk"
+        },
+        {
+            "description": "",
+            "language": "pt",
+            "title": "Ref. Carrinho"
+        },
+        {
+            "description": "",
+            "language": "fi",
+            "title": "Korin linkki"
+        }
+    ],
+    "type": "fragment",
+    "version": 6
+}

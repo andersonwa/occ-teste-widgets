@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Izvēlne",
+	"categoryHeader": "Kategorijas navigācijas izvēlne",
+	"mobileNavBtnText": "Navigācija",
+	"categoryNavScreenReaderText": "__displayName__ ir __categoryLength__ apakškategorijas",
+	"noSubCategoriesText" : "__displayName__ nav apakškategoriju"
+  }
+}

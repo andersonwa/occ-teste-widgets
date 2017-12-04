@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Achiziţie",
+    "cartDropDownText": "__count__ articol - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ articole - __currency____totalPrice__",
+    "cartHeading": "Coşul dvs. de cumpărături",
+    "cartTableSumary": "Acest tabel conţine o listă a articolelor care se află în acest moment în coşul dvs. de cumpărături",
+    "cartColHeaderImage": "Imagine",
+    "cartColHeaderName": "Nume",
+    "cartColHeaderQuantity": "Cantitate",
+    "cartColHeaderItemTotal": "Total articole",
+    "totalTableSummary": "Totaluri coş de cumpărături.",
+    "totalTableSubTotal": "Subtotal:",
+    "totalTableTotal": "Total:",
+    "buttonEditCart": "Editare coş",
+    "buttonRemoveItem": "Eliminare",
+    "siteNavigationHeader" : "Navigare site",
+    "shoppingCartHeader" : "Sumar coş de cumpărături",
+    "skipToContent": "Salt la conţinut",
+    "miniShoppingCartTitle": "Mini-coş de cumpărături",
+    "miniShoppingCartScrollUp": "Faceţi clic pt. vizualizarea setului anterior de produse",
+    "miniShoppingCartScrollDown": "Faceţi clic pt. vizualizarea setului următor de produse",
+    "updateProfileLocaleModalText": "Salvaţi limba selectată în profilul dvs.?",
+    "minicartText": "Mini-coş",
+    "cartOperationsText": "Operaţii coş"
+  }
+}

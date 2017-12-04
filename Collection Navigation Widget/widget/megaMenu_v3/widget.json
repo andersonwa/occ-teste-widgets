@@ -1,0 +1,21 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "catalogId": "cloudCatalog",
+    "fields": "",
+    "maxNoOfElements": "10",
+    "rootCategoryId": "rootCategory"
+  },
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "megaMenu",
+  "imports": ["category"],
+  "javascript": "megaMenu",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Collection Navigation Widget",
+  "source": 100,
+  "version": 3,
+  "widgetFamily": "megaMenu",
+  "widgetType": "megaMenu"
+}

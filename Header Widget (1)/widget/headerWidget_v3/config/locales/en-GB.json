@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Enter the number of items you want to display in the mini cart before scrolling is required.",
+    "miniCartNumberOfItemsLabel": "Number of items in mini cart before scrolling",
+    "miniCartDisplayMiniCartHelpText": "Set whether mini-cart should be displayed for 'add to cart' notification.",
+    "miniCartDisplayMiniCartTextLabel": "Display Mini-Cart",
+    "miniCartMiniCartDurationHelpText": "Set the duration for the display of the mini-cart (in secs).",
+    "miniCartMiniCartDurationTextLabel": "Duration (in secs)"
+  }
+}

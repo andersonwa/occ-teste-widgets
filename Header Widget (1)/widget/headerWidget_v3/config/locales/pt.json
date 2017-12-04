@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Introduza o número de artigos que pretende apresentar no mini carrinho antes de ser necessário usar a barra de deslocação.",
+    "miniCartNumberOfItemsLabel": "Número de artigos no mini carrinho antes de usar a barra de deslocação",
+    "miniCartDisplayMiniCartHelpText": "Definir se o mini carrinho deve ser apresentado na notificação 'acrescentar ao carrinho'.",
+    "miniCartDisplayMiniCartTextLabel": "Apresentar o Mini Carrinho",
+    "miniCartMiniCartDurationHelpText": "Definir a precisão de apresentação do mini carrinho (em segundos).",
+    "miniCartMiniCartDurationTextLabel": "Duração (em segundos)"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Каса",
+    "cartDropDownText": "__count__ артикул – __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ артикули – __currency____totalPrice__",
+    "cartHeading": "Вашата количка",
+    "cartTableSumary": "Тази таблица съдържа списък с артикулите, които в момента са във вашата количка.",
+    "cartColHeaderImage": "Изображение",
+    "cartColHeaderName": "Име",
+    "cartColHeaderQuantity": "Количество",
+    "cartColHeaderItemTotal": "Общо артикули",
+    "totalTableSummary": "Обща стойност в количката.",
+    "totalTableSubTotal": "Междинна обща сума:",
+    "totalTableTotal": "Общо:",
+    "buttonEditCart": "Промяна на количката",
+    "buttonRemoveItem": "Премахване",
+    "siteNavigationHeader" : "Навигация в уеб сайта",
+    "shoppingCartHeader" : "Обща информация за количката",
+    "skipToContent": "Прескачане към съдържание",
+    "miniShoppingCartTitle": "Малка количка",
+    "miniShoppingCartScrollUp": "Щракнете, за да видите предишния набор от продукти",
+    "miniShoppingCartScrollDown": "Щракнете, за да видите следващия набор от продукти",
+    "updateProfileLocaleModalText": "Записване на избора на език за вашия профил?",
+    "minicartText": "Малка количка",
+    "cartOperationsText": "Операции с количка"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Введіть кількість елементів, які відображатимуться в міні-кошику, перш ніж виникне потреба у прокручуванні.",
+    "miniCartNumberOfItemsLabel": "Кількість елементів у міні-кошику перед прокручуванням",
+    "miniCartDisplayMiniCartHelpText": "Установіть, чи слід відображати міні-кошик для сповіщення \"Додати до кошика\".",
+    "miniCartDisplayMiniCartTextLabel": "Відображати міні-кошик",
+    "miniCartMiniCartDurationHelpText": "Установіть тривалість відображення міні-кошика (у секундах).",
+    "miniCartMiniCartDurationTextLabel": "Тривалість (сек)"
+  }
+}

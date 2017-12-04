@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Należy wprowadzić listę pól rozdzielonych przecinkami, które zostaną uwzględnione w odpowiedzi.",
+    "megaMenuFieldsRequiredLabel": "Pola"
+  }
+}

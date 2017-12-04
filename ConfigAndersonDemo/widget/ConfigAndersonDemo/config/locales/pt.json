@@ -1,0 +1,15 @@
+{
+  "resources" : {
+    "enabledHelpText": "Habilita mensagem de carrinho.",
+    "enabledLabel": "Habilita",
+    "couponHelpText": "Define o nome do cupom.",
+    "couponLabel": "Cupom",
+    "minSpendHelpText": "Define o valor mínimo gasto para o cupom.",
+    "minSpendLabel": "Gasto mínimo",
+    "sizeHelpText": "O tamanho do banner.",
+    "sizeLabel": "Tamanho do banner",
+    "sizeSmallLabel": "Pequeno",
+    "sizeMediumLabel": "Médio",
+    "sizeLargeLabel": "Grande"
+  }
+}

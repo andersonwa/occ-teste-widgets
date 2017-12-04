@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "É necessário informar o número máximo de itens que você deseja exibir no minicarrinho antes da rolagem.",
+    "miniCartNumberOfItemsLabel": "Número de itens no minicarrinho antes da rolagem",
+    "miniCartDisplayMiniCartHelpText": "Defina se o minicarrinho deve ser exibido para a notificação 'adicionar a carrinho'.",
+    "miniCartDisplayMiniCartTextLabel": "Exibir Minicarrinho",
+    "miniCartMiniCartDurationHelpText": "Defina a duração da exibição do minicarrinho (em segundos).",
+    "miniCartMiniCartDurationTextLabel": "Duração (em segundos)"
+  }
+}

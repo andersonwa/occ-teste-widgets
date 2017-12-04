@@ -1,0 +1,21 @@
+{
+    "availableToAllWidgets": false,
+    "configOptions": [],
+    "global": false,
+    "inline": false,
+    "supportedWidgetType": ["PFTheaderWidget"],
+    "tag": "pft-search",
+    "translations": [{
+            "description": "",
+            "language": "pt_BR",
+            "title": "Busca"
+        },
+        {
+            "description": "",
+            "language": "en",
+            "title": "Search"
+        }
+    ],
+    "type": "fragment",
+    "version": 1
+}

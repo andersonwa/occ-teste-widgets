@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "输入要包含在响应中的一列字段，用逗号分隔。",
+    "megaMenuFieldsRequiredLabel": "字段"
+  }
+}

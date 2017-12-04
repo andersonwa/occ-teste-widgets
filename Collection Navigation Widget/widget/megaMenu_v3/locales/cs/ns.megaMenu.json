@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Nabídka",
+	"categoryHeader": "Navigační nabídka kategorie",
+	"mobileNavBtnText": "Navigace",
+	"categoryNavScreenReaderText": "Dílčí kategorie v __displayName__: __categoryLength__",
+	"noSubCategoriesText" : "__displayName__ neobsahuje dílčí kategorie."
+  }
+}

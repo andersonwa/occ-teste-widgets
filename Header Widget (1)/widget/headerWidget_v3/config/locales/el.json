@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Εισαγάγετε τον αριθμό ειδών που θέλετε να εμφανίζονται στο μικρό καλάθι προτού χρειαστεί να κάνετε κύλιση.",
+    "miniCartNumberOfItemsLabel": "Αριθμός ειδών στο μικρό καλάθι πριν από την κύλιση",
+    "miniCartDisplayMiniCartHelpText": "Ορίστε αν το μικρό καλάθι θα εμφανίζεται για την ειδοποίηση \"Προσθήκη στο καλάθι\".",
+    "miniCartDisplayMiniCartTextLabel": "Εμφάνιση μικρού καλαθιού",
+    "miniCartMiniCartDurationHelpText": "Ορίστε τη διάρκεια προβολής του μικρού καλαθιού (σε δευτερόλεπτα).",
+    "miniCartMiniCartDurationTextLabel": "Διάρκεια (σε δευτερόλεπτα)"
+  }
+}

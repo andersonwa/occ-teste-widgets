@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "응답에 포함할 쉼표로 구분된 필드 목록을 입력합니다.",
+    "megaMenuFieldsRequiredLabel": "필드"
+  }
+}

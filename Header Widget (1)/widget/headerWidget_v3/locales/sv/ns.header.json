@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Till kassan",
+    "cartDropDownText": "__count__ artikel - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ artiklar - __currency____totalPrice__",
+    "cartHeading": "Din kundvagn",
+    "cartTableSumary": "Den här tabellen innehåller en lista över artiklar som för närvarande finns i din kundvagn.",
+    "cartColHeaderImage": "Bild",
+    "cartColHeaderName": "Namn",
+    "cartColHeaderQuantity": "Kvantitet",
+    "cartColHeaderItemTotal": "Artikelsumma",
+    "totalTableSummary": "Summor för kundvagn.",
+    "totalTableSubTotal": "Delsumma:",
+    "totalTableTotal": "Summa:",
+    "buttonEditCart": "Redigera kundvagn",
+    "buttonRemoveItem": "Ta bort",
+    "siteNavigationHeader" : "Webbplatsnavigering",
+    "shoppingCartHeader" : "Översikt över kundvagn",
+    "skipToContent": "Gå vidare till innehåll",
+    "miniShoppingCartTitle": "Minikundvagn",
+    "miniShoppingCartScrollUp": "Klicka här om du vill visa föregående produktuppsättning",
+    "miniShoppingCartScrollDown": "Klicka här om du vill visa nästa produktuppsättning",
+    "updateProfileLocaleModalText": "Spara språkurvalet till din profil?",
+    "minicartText": "Minikundvagn",
+    "cartOperationsText": "Kundvagnsåtgärder"
+  }
+}

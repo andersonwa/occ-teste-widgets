@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "Меню",
+	"categoryHeader": "Меню навігації за категоріями",
+	"mobileNavBtnText": "Навігація",
+	"categoryNavScreenReaderText": "__displayName__ містить підкатегорії  з __categoryLength__",
+	"noSubCategoriesText" : "__displayName__ не містить підкатегорій"
+  }
+}

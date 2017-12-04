@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "ป้อนลิสต์ของฟิลด์ที่คั่นด้วยคอมมาที่จะรวมในการตอบกลับ",
+    "categoryNavigationFieldsRequiredLabel": "ฟิลด์"
+  }
+}

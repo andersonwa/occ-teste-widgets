@@ -1,0 +1,108 @@
+<div class="top-main-header row float-menu" data-bind="css: {active: floatMenu() == true}">
+    <div class="top-main-header__center col-xs-12">
+        <div class="container">
+            <ul class="top-main-header__links-left pull-left hidden-xs">
+                <li class="top-main-header__link-item top-main-header__link-item--carmen store" data-bind="css: {active: selectedStore() == 'CS'},click: function() { markSelectStoreMenu('CS') }"><a href="/home">Carmen Steffens</a></li>
+                <li class="top-main-header__link-item top-main-header__link-item--rafael store" data-bind="css: {active: selectedStore() == 'RS'},click: function() { markSelectStoreMenu('RS') }"><a href="#">RAFAEL STEFFENS</a></li>
+                <li class="top-main-header__link-item top-main-header__link-item--csclub store" data-bind="css: {active: selectedStore() == 'CSC'},click: function() { markSelectStoreMenu('CSC') }"><a href="#">CS Club</a></li>
+            </ul>
+            <div class="float-menu-wrapper hidden-xs">
+                <!-- oc section: pft-header-dropdown-navigation -->
+                <div data-bind="element: 'pft-header-dropdown-navigation'"></div>
+                <!-- /oc -->
+            </div>
+            <div class="float-menu-wrapper__icons">
+                <!-- oc section: pft-search -->
+                <div class="pft-search-widget hidden-xs " data-bind="element: 'pft-search'"></div>
+                <!-- /oc -->
+
+                <!-- oc section: pft-login-registration -->
+                <div class="pft-login-registration-widget" data-bind="element: 'pft-login-registration'"></div>
+                <!-- /oc -->
+
+                <!-- Minicart Link -->
+                <div class="pft-header-dropdown-minicart-widget hidden-xs">
+                  <a href="/cart" id="CC-header-cart-total" data-original-title="Shopping Cart" class="cc-cartlink-anchor"></a>
+                </div>
+                <!-- End Minicart Link -->
+            </div>
+        </div>
+    </div>
+</div>
+<div class="top-main-header row hidden-xs">
+  <div class="top-main-header__center col-xs-12">
+    <div class="container">
+      <ul class="top-main-header__links-left pull-left">
+        <li class="top-main-header__link-item top-main-header__link-item--carmen store" data-bind="css: {active: selectedStore() == 'CS'},click: function() { markSelectStoreMenu('CS') }"><a href="/home">Carmen Steffens</a></li>
+        <li class="top-main-header__link-item top-main-header__link-item--rafael store" data-bind="css: {active: selectedStore() == 'RS'},click: function() { markSelectStoreMenu('RS') }"><a href="#">RAFAEL STEFFENS</a></li>
+        <li class="top-main-header__link-item top-main-header__link-item--csclub store" data-bind="css: {active: selectedStore() == 'CSC'},click: function() { markSelectStoreMenu('CSC') }"><a href="#">CS Club</a></li>
+      </ul>
+      <ul class="top-main-header__links-right pull-right">
+        <li class="top-main-header__link-item top-main-header__link-item--corporativo"><a href="http://franquias.carmensteffens.com">Seja um Franqueado</a></li>
+        <li class="top-main-header__link-item top-main-header__link-item--corporativo"><a href="/quem-somos">Corporativo</a></li>
+        <li class="top-main-header__link-item top-main-header__link-item--blog"><a href="http://blog.carmensteffens.com/">Blog</a></li>
+        <li class="top-main-header__link-item top-main-header__link-item--localizador"><a href="/nossas-lojas">Localizador de Lojas</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="templateRegion PFTmainHeader" id="CC-PFTheaderWidget" data-oc-id="CC-PFTheaderWidget">
+  <div>
+    <h1 class="label-hidden" data-bind="text: $data.site().siteInfo.name"></h1>
+    <div class="header-background">
+      <div id="header">
+        <!-- oc layout: panels -->
+        <div class="container">
+          <div class="row">
+            <div class="oc-panel col-md-4 col-xs-2" data-oc-id="panel-0-0">
+              <a href="#" id="toggle-navigation" class="visible-xs">Menu</a>
+            </div>
+
+            <div class="oc-panel col-md-4 col-xs-6" data-oc-id="panel-0-1">
+              <!-- oc section: pft-header-logo -->
+              <!-- ko with: selectedStoreLogo() -->
+              <div class="row">
+                    <div class="logo">
+                        <a data-bind="ccLink: $data" id="CC-header-logoImageLink"><img class="img img-responsive" data-bind="attr: { alt: $data.alt, src: $data.src}"></a>
+                    </div>
+              </div>
+              <!-- /ko -->
+              <!-- /oc -->
+            </div>
+
+            <div class="oc-panel col-md-4 col-xs-4 text-right" data-oc-id="panel-0-2">
+              <a href="#" class="toggle-search visible-xs">Busca</a>
+
+              <a href="/cart" class="toggle-cart visible-xs">Carrinho</a>
+
+            </div>
+          </div>
+
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="row-menu oc-panel col-md-12" data-oc-id="panel-1-0">
+              <!-- <a href="http://franquias.carmensteffens.com" class="seja-franqueado hidden-xs hidden-sm">SEJA UM FRANQUEADO</a> -->
+              <!-- oc section: pft-header-dropdown-navigation -->
+              <div data-bind="element: 'pft-header-dropdown-navigation'"></div>
+              <!-- /oc -->
+
+              <!-- oc section: pft-search -->
+              <div class="pft-search-widget" data-bind="element: 'pft-search'"></div>
+              <!-- /oc -->
+
+              <!-- oc section: pft-login-registration -->
+              <div class="pft-login-registration-widget" data-bind="element: 'pft-login-registration'"></div>
+              <!-- /oc -->
+
+              <!-- oc section: pft-header-dropdown-minicart -->
+              <div class="pft-header-dropdown-minicart-widget" data-bind="element: 'pft-header-dropdown-minicart'"></div>
+              <!-- /oc -->
+            </div>
+          </div>
+        </div>
+        <!-- /oc -->
+      </div>
+    </div>
+  </div>
+</div>

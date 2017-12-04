@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "categoryNavigationFieldsRequiredHelpText": "輸入逗號分隔欄位清單以包含在回應中。",
+    "categoryNavigationFieldsRequiredLabel": "欄位"
+  }
+}

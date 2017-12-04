@@ -1,0 +1,9 @@
+{
+  "resources": {
+	"menu": "功能表",
+	"categoryHeader": "分類瀏覽功能表",
+	"mobileNavBtnText": "瀏覽",
+	"categoryNavScreenReaderText": "__displayName__ 有 __categoryLength__ 個子分類",
+	"noSubCategoriesText" : "__displayName__ 沒有子分類"
+  }
+}

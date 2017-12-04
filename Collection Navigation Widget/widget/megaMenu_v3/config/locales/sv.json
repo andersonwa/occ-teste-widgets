@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "megaMenuFieldsRequiredHelpText": "Ange en lista över kommaseparerade fält som ska inkluderas i svaret.",
+    "megaMenuFieldsRequiredLabel": "Fält"
+  }
+}

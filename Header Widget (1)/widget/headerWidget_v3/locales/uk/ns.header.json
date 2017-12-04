@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Оформлення",
+    "cartDropDownText": "Ціна __count__ товару: __currency____totalPrice__",
+    "cartDropDownText_plural": "Ціна __count__ товарів: __currency____totalPrice__",
+    "cartHeading": "Ваш кошик",
+    "cartTableSumary": "Ця таблиця містить список товарів, які зараз є в кошику.",
+    "cartColHeaderImage": "Зображення",
+    "cartColHeaderName": "Ім'я",
+    "cartColHeaderQuantity": "Кількість",
+    "cartColHeaderItemTotal": "Загальна сума товару",
+    "totalTableSummary": "Загальна сума покупок у кошику.",
+    "totalTableSubTotal": "Проміжний підсумок:",
+    "totalTableTotal": "Загальна сума:",
+    "buttonEditCart": "Змінити вміст кошика",
+    "buttonRemoveItem": "Видалити",
+    "siteNavigationHeader" : "Навігація по сайту",
+    "shoppingCartHeader" : "Про вміст кошика",
+    "skipToContent": "Перейти до вмісту",
+    "miniShoppingCartTitle": "Міні-кошик",
+    "miniShoppingCartScrollUp": "Натисніть, щоб переглянути попередній набір продуктів",
+    "miniShoppingCartScrollDown": "Натисніть, щоб переглянути наступний набір продуктів",
+    "updateProfileLocaleModalText": "Зберегти вибрану мову в профілі?",
+    "minicartText": "Міні-кошик",
+    "cartOperationsText": "Операції з вмістом кошика"
+  }
+}

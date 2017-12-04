@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Vormista ost",
+    "cartDropDownText": "__count__ kaup - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ kaupa - __currency____totalPrice__",
+    "cartHeading": "Teie ostukorv",
+    "cartTableSumary": "See tabel sisaldab kaupu, mis on praegu teie ostukorvis.",
+    "cartColHeaderImage": "Pilt",
+    "cartColHeaderName": "Nimi",
+    "cartColHeaderQuantity": "Kogus",
+    "cartColHeaderItemTotal": "Kauba kogusumma",
+    "totalTableSummary": "Ostukorvi kogusummad.",
+    "totalTableSubTotal": "Vahesumma:",
+    "totalTableTotal": "Kokku:",
+    "buttonEditCart": "Muuda ostukorvi",
+    "buttonRemoveItem": "Eemalda",
+    "siteNavigationHeader" : "Veebilehe navigeerimine",
+    "shoppingCartHeader" : "Ostukorvi kokkuvõte",
+    "skipToContent": "Mine sisu juurde",
+    "miniShoppingCartTitle": "Mini-ostukorv",
+    "miniShoppingCartScrollUp": "Klõpsake eelmise tootekomplekti kuvamiseks",
+    "miniShoppingCartScrollDown": "Klõpsake järgmise tootekomplekti kuvamiseks",
+    "updateProfileLocaleModalText": "Kas salvestada teie keelevalik teie profiili?",
+    "minicartText": "Mini-ostukorv",
+    "cartOperationsText": "Ostukorvi toimingud"
+  }
+}

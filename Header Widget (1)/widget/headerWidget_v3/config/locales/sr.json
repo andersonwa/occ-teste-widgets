@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "miniCartNumberOfItemsHelpText": "Унесите број ставки који желите да се приказује у мини корпи, пре него што померање странице постане потребно.",
+    "miniCartNumberOfItemsLabel": "Број ставки у мини корпи пре померања",
+    "miniCartDisplayMiniCartHelpText": "Подесите да ли мини корпа треба да се приказује за обавештења о додавању у корпу.",
+    "miniCartDisplayMiniCartTextLabel": "Прикажи мини корпу",
+    "miniCartMiniCartDurationHelpText": "Подесите трајање приказа мини корпе (у секундама).",
+    "miniCartMiniCartDurationTextLabel": "Трајање (у секундама)"
+  }
+}

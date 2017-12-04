@@ -1,0 +1,7 @@
+<div class="row">
+  <div class="header__inner">
+    <a data-bind="ccLink: logoPageLink" class="logo">
+      <i class="ico-logo">Damasio</i>
+    </a>
+  </div>
+</div>

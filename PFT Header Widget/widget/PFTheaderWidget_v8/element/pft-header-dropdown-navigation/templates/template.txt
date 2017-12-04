@@ -1,0 +1,72 @@
+<!-- ko if: initialized() && $data.elements.hasOwnProperty('pft-header-dropdown-navigation') -->
+<!-- ko with: $data['elements']['pft-header-dropdown-navigation'] -->
+<div id="CC-megaMenu">
+    <h3 class="label-hidden" data-bind="widgetLocaleText: 'categoryHeader'"></h3>
+
+    <!-- ko setContextVariable:{name:'widgetViewModel',value:$data} -->
+
+    <!-- DESKTOP MEGA MENU -->
+    <!--  ko ifnot: $data.isMobile() -->
+    <nav class="mega-menu navbar" role="navigation">
+        <div class="collapse navbar-collapse mega-menu-fullwidth-collapse">
+            <!-- ko foreach: categories -->
+                <!-- ko if: $data.id == $parent.store() -->
+                <ul class="nav navbar-nav" data-bind="foreach: $data.childCategories">
+                    <!-- ko if: $data.childCategories -->
+                    <li class="dropdown mega-menu-fullwidth menu-item cc-desktop-dropdown">
+                        <a class="dropdown-toggle Level1" data-toggle="dropdown" data-bind="attr: { id: $data.id , title: $data.displayName },
+                                                                                   click: $parent.megaMenuClick,
+                                                                                   ccLink : $data,
+                                                                                   widgetLocaleText: {value:'categoryNavScreenReaderText', attr:'aria-label',
+                                                                                     params: {displayName: displayName, categoryLength: childCategories.length}}">
+                            <span data-bind="text: displayName"></span>
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="row" data-bind="foreach: childCategories">
+                                    <div class="child-category-container col-md-2" data-bind="css:{'last': ($index() === $parent.childCategories.length - 1), 'first': ($index() === 0)}">
+                                        <a tabindex="0" data-bind="attr:{id: $data.id , title: $data.displayName},
+                                    click : $widgetViewModel.catMenuClick,
+                                    ccLink : $data,
+                                    widgetLocaleText: (($data.childCategories === undefined)? false : true) ? ({value:'categoryNavScreenReaderText', attr:'aria-label',
+                                      params: {displayName: displayName, categoryLength: childCategories.length}}) :
+                                      ({value:'noSubCategoriesText', attr:'aria-label', params: {displayName: displayName}})" class="category-header Level2"></a>
+                                        <!-- ko if: $data.childCategories -->
+                                        <ul data-bind="foreach: $data.childCategories">
+                                            <li>
+                                                <a class="Level3" data-bind="attr: { id: $data.id , title:$data.displayName},
+                              ccLink : $data, event: { keydown : $data.keybindFunc , click : $data.otherItemClick}, click : $widgetViewModel.catMenuClick"></a>
+                                            </li>
+                                        </ul>
+                                        <!-- /ko -->
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- /ko -->
+                    <!-- ko ifnot: $data.childCategories -->
+                    <li role="menuitem" class="rootCategoryChild menu-item">
+                        <a data-bind="click : $widgetViewModel.catMenuClick,
+                            ccLink : $data,
+                            attr: { id: $data.id, title: $data.displayName },
+                            event: { keydown : $data.keybindFunc, click: $data.otherItemClick},
+                            widgetLocaleText: {value:'noSubCategoriesText', attr:'aria-label', params: {displayName: displayName}}" class="Level1">
+                            <span data-bind="text: displayName"></span>
+                            <!-- ko if: $data.showCaret -->
+                            <b class="caret"></b>
+                            <!-- /ko -->
+                        </a>
+                    </li>
+                    <!-- /ko -->
+                </ul>
+                <!-- /ko -->
+            <!-- /ko -->
+        </div>
+    </nav>
+    <!-- /ko -->
+    <!-- /ko -->
+</div>
+<!-- /ko -->
+<!-- /ko -->

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "buttonCheckout": "Finalización de compra",
+    "cartDropDownText": "__count__ artículo - __currency____totalPrice__",
+    "cartDropDownText_plural": "__count__ artículos - __currency____totalPrice__",
+    "cartHeading": "Carro de compra",
+    "cartTableSumary": "Esta tabla contiene una lista de artículos que están actualmente en su carro de la compra.",
+    "cartColHeaderImage": "Imagen",
+    "cartColHeaderName": "Nombre",
+    "cartColHeaderQuantity": "Cantidad",
+    "cartColHeaderItemTotal": "Total de artículos",
+    "totalTableSummary": "Total de carro de compra.",
+    "totalTableSubTotal": "Subtotal:",
+    "totalTableTotal": "Total:",
+    "buttonEditCart": "Editar carro",
+    "buttonRemoveItem": "Eliminar",
+    "siteNavigationHeader" : "Navegación de sitio",
+    "shoppingCartHeader" : "Resumen de carro de compra",
+    "skipToContent": "Ir a contenido",
+    "miniShoppingCartTitle": "Mini carro de compra",
+    "miniShoppingCartScrollUp": "Haga clic para ver el juego de productos anterior",
+    "miniShoppingCartScrollDown": "Haga clic para ver el juego de productos siguiente",
+    "updateProfileLocaleModalText": "¿Desea guardar la selección de idioma en su perfil?",
+    "minicartText": "Mini carro",
+    "cartOperationsText": "Operaciones de carro"
+  }
+}
